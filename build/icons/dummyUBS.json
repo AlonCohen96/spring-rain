@@ -1,0 +1,1871 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 1.246,
+      "fmt": "1.25"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0.22171,
+      "fmt": "22.17%"
+    },
+    "enterpriseToEbitda": {},
+    "52WeekChange": {
+      "raw": 0.12963963,
+      "fmt": "12.96%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {
+      "raw": 2.49,
+      "fmt": "2.49"
+    },
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 3107729920,
+      "fmt": "3.11B",
+      "longFmt": "3,107,729,920"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 18.301,
+      "fmt": "18.30"
+    },
+    "sharesShort": {
+      "raw": 15791139,
+      "fmt": "15.79M",
+      "longFmt": "15,791,139"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.0050999997,
+      "fmt": "0.51%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.56057,
+      "fmt": "56.06%"
+    },
+    "netIncomeToCommon": {
+      "raw": 7630000128,
+      "fmt": "7.63B",
+      "longFmt": "7,630,000,128"
+    },
+    "trailingEps": {
+      "raw": 2.25,
+      "fmt": "2.25"
+    },
+    "lastDividendValue": {
+      "raw": 0.5,
+      "fmt": "0.50"
+    },
+    "SandP52WeekChange": {
+      "raw": -0.08492237,
+      "fmt": "-8.49%"
+    },
+    "priceToBook": {
+      "raw": 1.1474782,
+      "fmt": "1.15"
+    },
+    "heldPercentInsiders": {
+      "raw": 0.00075999997,
+      "fmt": "0.08%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "shortRatio": {
+      "raw": 4.78,
+      "fmt": "4.78"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1676419200,
+      "fmt": "2023-02-15"
+    },
+    "floatShares": {
+      "raw": 3097160441,
+      "fmt": "3.1B",
+      "longFmt": "3,097,160,441"
+    },
+    "beta": {
+      "raw": 1.115667,
+      "fmt": "1.12"
+    },
+    "enterpriseValue": {
+      "raw": 42878259200,
+      "fmt": "42.88B",
+      "longFmt": "42,878,259,200"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1152489600,
+      "fmt": "2006-07-10"
+    },
+    "lastSplitFactor": "2:1",
+    "legalType": null,
+    "lastDividendDate": {
+      "raw": 1649721600,
+      "fmt": "2022-04-12"
+    },
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {
+      "raw": 0.226,
+      "fmt": "22.60%"
+    },
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1678838400,
+      "fmt": "2023-03-15"
+    },
+    "pegRatio": {
+      "raw": 1.01,
+      "fmt": "1.01"
+    },
+    "ytdReturn": {},
+    "forwardPE": {
+      "raw": 8.433735,
+      "fmt": "8.43"
+    },
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {
+      "raw": 0.0058999998,
+      "fmt": "0.59%"
+    },
+    "sharesShortPriorMonth": {
+      "raw": 16548293,
+      "fmt": "16.55M",
+      "longFmt": "16,548,293"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "zip": "8001",
+    "sector": "Financial Services",
+    "fullTimeEmployees": 72597,
+    "longBusinessSummary": "UBS Group AG provides financial advice and solutions to private, institutional, and corporate clients worldwide. It operates through four divisions: Global Wealth Management, Personal & Corporate Banking, Asset Management, and Investment Bank. The Global Wealth Management division offers investment advice and solutions, and lending solutions. This segment also provides estate and wealth planning, investing, corporate and banking, and investment management, as well as mortgage, securities-based, and structured lending solutions. The Personal & Corporate Banking division provides personal banking products and services, such as deposits, cards, and online and mobile banking, as well as lending, investments, and retirement services; and corporate and institutional solutions, including equity and debt capital markets, syndicated and structured credit, private placements, leasing, traditional financing, trade and export finance, and global custody solutions, as well as transaction banking solutions for payment and cash management. The Asset Management division offers equities, fixed income, hedge funds, real estate and private markets, indexed and alternative beta strategies, asset allocation and currency investment strategies, customized multi-asset solutions, advisory and fiduciary services, and multi-manager hedge fund solutions and advisory services. The Investment Bank division advises clients on strategic business opportunities and helps them raise capital to fund their activities; enables its clients to buy, sell, and finance securities on capital markets and to manage their risks and liquidity; distribute, trade, finance, and clear cash equities and equity-linked products; and offers clients differentiated content on major financial markets and securities. The company was formerly known as UBS AG and changed its name to UBS Group AG in December 2014. UBS Group AG was founded in 1862 and is based in Zurich, Switzerland.",
+    "city": "Zurich",
+    "phone": "41 44 234 11 11",
+    "country": "Switzerland",
+    "companyOfficers": [],
+    "website": "https://www.ubs.com",
+    "maxAge": 86400,
+    "address1": "Bahnhofstrasse 45",
+    "industry": "Banks—Diversified"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 1,
+        "buy": 0,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 0,
+        "buy": 1,
+        "hold": 1,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 0,
+        "buy": 1,
+        "hold": 1,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 0,
+        "hold": 1,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "B",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [
+        {
+          "date": "1Q2022",
+          "actual": {
+            "raw": 0.61,
+            "fmt": "0.61"
+          },
+          "estimate": {
+            "raw": 0.5,
+            "fmt": "0.50"
+          }
+        },
+        {
+          "date": "2Q2022",
+          "actual": {
+            "raw": 0.61,
+            "fmt": "0.61"
+          },
+          "estimate": {
+            "raw": 0.48,
+            "fmt": "0.48"
+          }
+        },
+        {
+          "date": "3Q2022",
+          "actual": {
+            "raw": 0.52,
+            "fmt": "0.52"
+          },
+          "estimate": {
+            "raw": 0.46,
+            "fmt": "0.46"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "actual": {
+            "raw": 0.5,
+            "fmt": "0.50"
+          },
+          "estimate": {
+            "raw": 0.38,
+            "fmt": "0.38"
+          }
+        }
+      ],
+      "currentQuarterEstimate": {
+        "raw": 0.55,
+        "fmt": "0.55"
+      },
+      "currentQuarterEstimateDate": "1Q",
+      "currentQuarterEstimateYear": 2023,
+      "earningsDate": []
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2019,
+          "revenue": {
+            "raw": 28927000000,
+            "fmt": "28.93B",
+            "longFmt": "28,927,000,000"
+          },
+          "earnings": {
+            "raw": 4304000000,
+            "fmt": "4.3B",
+            "longFmt": "4,304,000,000"
+          }
+        },
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 32386000000,
+            "fmt": "32.39B",
+            "longFmt": "32,386,000,000"
+          },
+          "earnings": {
+            "raw": 6557000000,
+            "fmt": "6.56B",
+            "longFmt": "6,557,000,000"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 35613000000,
+            "fmt": "35.61B",
+            "longFmt": "35,613,000,000"
+          },
+          "earnings": {
+            "raw": 7457000000,
+            "fmt": "7.46B",
+            "longFmt": "7,457,000,000"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 34415000000,
+            "fmt": "34.41B",
+            "longFmt": "34,415,000,000"
+          },
+          "earnings": {
+            "raw": 7630000000,
+            "fmt": "7.63B",
+            "longFmt": "7,630,000,000"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "1Q2022",
+          "revenue": {
+            "raw": 9318000000,
+            "fmt": "9.32B",
+            "longFmt": "9,318,000,000"
+          },
+          "earnings": {
+            "raw": 2136000000,
+            "fmt": "2.14B",
+            "longFmt": "2,136,000,000"
+          }
+        },
+        {
+          "date": "2Q2022",
+          "revenue": {
+            "raw": 9026000000,
+            "fmt": "9.03B",
+            "longFmt": "9,026,000,000"
+          },
+          "earnings": {
+            "raw": 2108000000,
+            "fmt": "2.11B",
+            "longFmt": "2,108,000,000"
+          }
+        },
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 8169000000,
+            "fmt": "8.17B",
+            "longFmt": "8,169,000,000"
+          },
+          "earnings": {
+            "raw": 1733000000,
+            "fmt": "1.73B",
+            "longFmt": "1,733,000,000"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 7902000000,
+            "fmt": "7.9B",
+            "longFmt": "7,902,000,000"
+          },
+          "earnings": {
+            "raw": 1653000000,
+            "fmt": "1.65B",
+            "longFmt": "1,653,000,000"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Nasdaq Real Time Price",
+    "regularMarketOpen": {
+      "raw": 20.89,
+      "fmt": "20.89"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 4508683,
+      "fmt": "4.51M",
+      "longFmt": "4,508,683"
+    },
+    "exchange": "NYQ",
+    "regularMarketTime": 1680638401,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 21.03,
+      "fmt": "21.03"
+    },
+    "shortName": "UBS Group AG Registered",
+    "averageDailyVolume10Day": {
+      "raw": 7761880,
+      "fmt": "7.76M",
+      "longFmt": "7,761,880"
+    },
+    "longName": "UBS Group AG",
+    "regularMarketChange": {
+      "raw": 0.29999924,
+      "fmt": "0.30"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 20.7,
+      "fmt": "20.70"
+    },
+    "postMarketTime": 1680652073,
+    "preMarketPrice": {
+      "raw": 20.8285,
+      "fmt": "20.83"
+    },
+    "preMarketTime": 1680700065,
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": -0.5,
+      "fmt": "-0.50"
+    },
+    "postMarketPrice": {
+      "raw": 20.5,
+      "fmt": "20.50"
+    },
+    "exchangeName": "NYSE",
+    "preMarketChange": {
+      "raw": -0.17149925,
+      "fmt": "-0.17"
+    },
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 20.74,
+      "fmt": "20.74"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 21,
+      "fmt": "21.00"
+    },
+    "regularMarketVolume": {
+      "raw": 4961390,
+      "fmt": "4.96M",
+      "longFmt": "4,961,390.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "PRE",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 66576297984,
+      "fmt": "66.58B",
+      "longFmt": "66,576,297,984.00"
+    },
+    "quoteType": "EQUITY",
+    "preMarketChangePercent": {
+      "raw": -0.008166631,
+      "fmt": "-0.82%"
+    },
+    "volumeAllCurrencies": {},
+    "postMarketSource": "FREE_REALTIME",
+    "strikePrice": {},
+    "symbol": "UBS",
+    "postMarketChangePercent": {
+      "raw": -0.0238095,
+      "fmt": "-2.38%"
+    },
+    "preMarketSource": "FREE_REALTIME",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": 0.014492717,
+      "fmt": "1.45%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Dodge & Cox International Stock Fund",
+        "pctHeld": {
+          "raw": 0.022,
+          "fmt": "2.20%"
+        },
+        "position": {
+          "raw": 84928642,
+          "fmt": "84.93M",
+          "longFmt": "84,928,642"
+        },
+        "value": {
+          "raw": 1783501482,
+          "fmt": "1.78B",
+          "longFmt": "1,783,501,482"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1667174400,
+          "fmt": "2022-10-31"
+        },
+        "organization": "Vanguard International Stock Index-Total Intl Stock Indx",
+        "pctHeld": {
+          "raw": 0.0105,
+          "fmt": "1.05%"
+        },
+        "position": {
+          "raw": 40630969,
+          "fmt": "40.63M",
+          "longFmt": "40,630,969"
+        },
+        "value": {
+          "raw": 853250349,
+          "fmt": "853.25M",
+          "longFmt": "853,250,349"
+        },
+        "pctChange": {
+          "raw": -0.012999999,
+          "fmt": "-1.30%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Dodge & Cox Stock Fund",
+        "pctHeld": {
+          "raw": 0.0092,
+          "fmt": "0.92%"
+        },
+        "position": {
+          "raw": 35680800,
+          "fmt": "35.68M",
+          "longFmt": "35,680,800"
+        },
+        "value": {
+          "raw": 749296800,
+          "fmt": "749.3M",
+          "longFmt": "749,296,800"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1664496000,
+          "fmt": "2022-09-30"
+        },
+        "organization": "Artisan International Value Fund",
+        "pctHeld": {
+          "raw": 0.0074,
+          "fmt": "0.74%"
+        },
+        "position": {
+          "raw": 28532377,
+          "fmt": "28.53M",
+          "longFmt": "28,532,377"
+        },
+        "value": {
+          "raw": 599179917,
+          "fmt": "599.18M",
+          "longFmt": "599,179,917"
+        },
+        "pctChange": {
+          "raw": 0.028399998,
+          "fmt": "2.84%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1664496000,
+          "fmt": "2022-09-30"
+        },
+        "organization": "Vanguard Tax Managed Fund-Vanguard Developed Markets Index Fund",
+        "pctHeld": {
+          "raw": 0.0058999998,
+          "fmt": "0.59%"
+        },
+        "position": {
+          "raw": 22692658,
+          "fmt": "22.69M",
+          "longFmt": "22,692,658"
+        },
+        "value": {
+          "raw": 476545818,
+          "fmt": "476.55M",
+          "longFmt": "476,545,818"
+        },
+        "pctChange": {
+          "raw": -0.0005,
+          "fmt": "-0.05%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "iShares Core MSCI EAFE ETF",
+        "pctHeld": {
+          "raw": 0.0046,
+          "fmt": "0.46%"
+        },
+        "position": {
+          "raw": 17695203,
+          "fmt": "17.7M",
+          "longFmt": "17,695,203"
+        },
+        "value": {
+          "raw": 371599263,
+          "fmt": "371.6M",
+          "longFmt": "371,599,263"
+        },
+        "pctChange": {
+          "raw": 0.0046,
+          "fmt": "0.46%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Fidelity Series International Value Fund",
+        "pctHeld": {
+          "raw": 0.0034999999,
+          "fmt": "0.35%"
+        },
+        "position": {
+          "raw": 13652291,
+          "fmt": "13.65M",
+          "longFmt": "13,652,291"
+        },
+        "value": {
+          "raw": 286698111,
+          "fmt": "286.7M",
+          "longFmt": "286,698,111"
+        },
+        "pctChange": {
+          "raw": -0.0498,
+          "fmt": "-4.98%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1664496000,
+          "fmt": "2022-09-30"
+        },
+        "organization": "MFS Institutional International Equity Fund",
+        "pctHeld": {
+          "raw": 0.0034,
+          "fmt": "0.34%"
+        },
+        "position": {
+          "raw": 12927977,
+          "fmt": "12.93M",
+          "longFmt": "12,927,977"
+        },
+        "value": {
+          "raw": 271487517,
+          "fmt": "271.49M",
+          "longFmt": "271,487,517"
+        },
+        "pctChange": {
+          "raw": -0.029000001,
+          "fmt": "-2.90%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1669766400,
+          "fmt": "2022-11-30"
+        },
+        "organization": "MFS Series Trust X-MFS International Intrinsic Value Fund",
+        "pctHeld": {
+          "raw": 0.0033000002,
+          "fmt": "0.33%"
+        },
+        "position": {
+          "raw": 12716560,
+          "fmt": "12.72M",
+          "longFmt": "12,716,560"
+        },
+        "value": {
+          "raw": 267047760,
+          "fmt": "267.05M",
+          "longFmt": "267,047,760"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1669766400,
+          "fmt": "2022-11-30"
+        },
+        "organization": "MFS Research International Fund",
+        "pctHeld": {
+          "raw": 0.0032,
+          "fmt": "0.32%"
+        },
+        "position": {
+          "raw": 12380500,
+          "fmt": "12.38M",
+          "longFmt": "12,380,500"
+        },
+        "value": {
+          "raw": 259990500,
+          "fmt": "259.99M",
+          "longFmt": "259,990,500"
+        },
+        "pctChange": {
+          "raw": -0.001,
+          "fmt": "-0.10%"
+        }
+      }
+    ]
+  },
+  "insiderTransactions": {},
+  "insiderHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "period": "6m",
+    "netPercentInsiderShares": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "netInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "totalInsiderShares": {
+      "raw": 2361872,
+      "fmt": "2.36M",
+      "longFmt": "2,361,872"
+    },
+    "buyInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "sellInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "maxAge": 1,
+    "buyInfoCount": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "netInfoShares": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.00075999997,
+      "fmt": "0.08%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.56057,
+      "fmt": "56.06%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.56099,
+      "fmt": "56.10%"
+    },
+    "institutionsCount": {
+      "raw": 924,
+      "fmt": "924",
+      "longFmt": "924"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "profitMargins": {
+      "raw": 0.22171,
+      "fmt": "22.17%"
+    },
+    "grossMargins": {
+      "raw": 0,
+      "fmt": "0.00%"
+    },
+    "operatingCashflow": {
+      "raw": 14647000064,
+      "fmt": "14.65B",
+      "longFmt": "14,647,000,064"
+    },
+    "revenueGrowth": {
+      "raw": -0.102,
+      "fmt": "-10.20%"
+    },
+    "operatingMargins": {
+      "raw": 0.27569,
+      "fmt": "27.57%"
+    },
+    "ebitda": {},
+    "targetLowPrice": {
+      "raw": 24.81,
+      "fmt": "24.81"
+    },
+    "recommendationKey": "strong_buy",
+    "grossProfits": {
+      "raw": 34415000000,
+      "fmt": "34.41B",
+      "longFmt": "34,415,000,000"
+    },
+    "freeCashflow": {},
+    "targetMedianPrice": {
+      "raw": 24.81,
+      "fmt": "24.81"
+    },
+    "currentPrice": {
+      "raw": 21,
+      "fmt": "21.00"
+    },
+    "earningsGrowth": {
+      "raw": 0.336,
+      "fmt": "33.60%"
+    },
+    "currentRatio": {},
+    "returnOnAssets": {
+      "raw": 0.0069,
+      "fmt": "0.69%"
+    },
+    "numberOfAnalystOpinions": {
+      "raw": 1,
+      "fmt": "1",
+      "longFmt": "1"
+    },
+    "targetMeanPrice": {
+      "raw": 24.81,
+      "fmt": "24.81"
+    },
+    "debtToEquity": {},
+    "returnOnEquity": {
+      "raw": 0.12962,
+      "fmt": "12.96%"
+    },
+    "targetHighPrice": {
+      "raw": 24.81,
+      "fmt": "24.81"
+    },
+    "totalCash": {
+      "raw": 400356016128,
+      "fmt": "400.36B",
+      "longFmt": "400,356,016,128"
+    },
+    "totalDebt": {
+      "raw": 377629999104,
+      "fmt": "377.63B",
+      "longFmt": "377,629,999,104"
+    },
+    "totalRevenue": {
+      "raw": 34415001600,
+      "fmt": "34.42B",
+      "longFmt": "34,415,001,600"
+    },
+    "totalCashPerShare": {
+      "raw": 128.826,
+      "fmt": "128.83"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 10.554,
+      "fmt": "10.55"
+    },
+    "quickRatio": {},
+    "recommendationMean": {
+      "raw": 1,
+      "fmt": "1.00"
+    }
+  },
+  "quoteType": {
+    "exchange": "NYQ",
+    "shortName": "UBS Group AG Registered",
+    "longName": "UBS Group AG",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-14400000",
+    "quoteType": "EQUITY",
+    "symbol": "UBS",
+    "messageBoardId": "finmb_416620",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Dodge & Cox Inc",
+        "pctHeld": {
+          "raw": 0.041300002,
+          "fmt": "4.13%"
+        },
+        "position": {
+          "raw": 159315717,
+          "fmt": "159.32M",
+          "longFmt": "159,315,717"
+        },
+        "value": {
+          "raw": 3345630057,
+          "fmt": "3.35B",
+          "longFmt": "3,345,630,057"
+        },
+        "pctChange": {
+          "raw": 0.0109,
+          "fmt": "1.09%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Massachusetts Financial Services Co.",
+        "pctHeld": {
+          "raw": 0.0342,
+          "fmt": "3.42%"
+        },
+        "position": {
+          "raw": 132059609,
+          "fmt": "132.06M",
+          "longFmt": "132,059,609"
+        },
+        "value": {
+          "raw": 2773251789,
+          "fmt": "2.77B",
+          "longFmt": "2,773,251,789"
+        },
+        "pctChange": {
+          "raw": 0.0095999995,
+          "fmt": "0.96%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "UBS Group AG",
+        "pctHeld": {
+          "raw": 0.031400003,
+          "fmt": "3.14%"
+        },
+        "position": {
+          "raw": 121007704,
+          "fmt": "121.01M",
+          "longFmt": "121,007,704"
+        },
+        "value": {
+          "raw": 2541161784,
+          "fmt": "2.54B",
+          "longFmt": "2,541,161,784"
+        },
+        "pctChange": {
+          "raw": -0.0115,
+          "fmt": "-1.15%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Norges Bank Investment Management",
+        "pctHeld": {
+          "raw": 0.0304,
+          "fmt": "3.04%"
+        },
+        "position": {
+          "raw": 117305480,
+          "fmt": "117.31M",
+          "longFmt": "117,305,480"
+        },
+        "value": {
+          "raw": 2463415080,
+          "fmt": "2.46B",
+          "longFmt": "2,463,415,080"
+        },
+        "pctChange": {
+          "raw": 1,
+          "fmt": "100.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Vanguard Group, Inc. (The)",
+        "pctHeld": {
+          "raw": 0.028199999,
+          "fmt": "2.82%"
+        },
+        "position": {
+          "raw": 108860630,
+          "fmt": "108.86M",
+          "longFmt": "108,860,630"
+        },
+        "value": {
+          "raw": 2286073230,
+          "fmt": "2.29B",
+          "longFmt": "2,286,073,230"
+        },
+        "pctChange": {
+          "raw": -0.0047999998,
+          "fmt": "-0.48%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Credit Suisse Ag/",
+        "pctHeld": {
+          "raw": 0.0254,
+          "fmt": "2.54%"
+        },
+        "position": {
+          "raw": 98021281,
+          "fmt": "98.02M",
+          "longFmt": "98,021,281"
+        },
+        "value": {
+          "raw": 2058446901,
+          "fmt": "2.06B",
+          "longFmt": "2,058,446,901"
+        },
+        "pctChange": {
+          "raw": -0.056199998,
+          "fmt": "-5.62%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Wellington Management Group, LLP",
+        "pctHeld": {
+          "raw": 0.0124,
+          "fmt": "1.24%"
+        },
+        "position": {
+          "raw": 47705075,
+          "fmt": "47.71M",
+          "longFmt": "47,705,075"
+        },
+        "value": {
+          "raw": 1001806575,
+          "fmt": "1B",
+          "longFmt": "1,001,806,575"
+        },
+        "pctChange": {
+          "raw": -0.0709,
+          "fmt": "-7.09%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Goldman Sachs Group Inc",
+        "pctHeld": {
+          "raw": 0.0117,
+          "fmt": "1.17%"
+        },
+        "position": {
+          "raw": 45066018,
+          "fmt": "45.07M",
+          "longFmt": "45,066,018"
+        },
+        "value": {
+          "raw": 946386378,
+          "fmt": "946.39M",
+          "longFmt": "946,386,378"
+        },
+        "pctChange": {
+          "raw": 0.3423,
+          "fmt": "34.23%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Zurcher Kantonalbank (Zurich Cantonalbank)",
+        "pctHeld": {
+          "raw": 0.0113,
+          "fmt": "1.13%"
+        },
+        "position": {
+          "raw": 43421063,
+          "fmt": "43.42M",
+          "longFmt": "43,421,063"
+        },
+        "value": {
+          "raw": 911842323,
+          "fmt": "911.84M",
+          "longFmt": "911,842,323"
+        },
+        "pctChange": {
+          "raw": 0.013099999,
+          "fmt": "1.31%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Pictet Asset Management SA",
+        "pctHeld": {
+          "raw": 0.0081,
+          "fmt": "0.81%"
+        },
+        "position": {
+          "raw": 31398658,
+          "fmt": "31.4M",
+          "longFmt": "31,398,658"
+        },
+        "value": {
+          "raw": 659371818,
+          "fmt": "659.37M",
+          "longFmt": "659,371,818"
+        },
+        "pctChange": {
+          "raw": 0.0186,
+          "fmt": "1.86%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [],
+      "earningsAverage": {
+        "raw": 0.55,
+        "fmt": "0.55"
+      },
+      "earningsLow": {
+        "raw": 0.55,
+        "fmt": "0.55"
+      },
+      "earningsHigh": {
+        "raw": 0.55,
+        "fmt": "0.55"
+      },
+      "revenueAverage": {},
+      "revenueLow": {},
+      "revenueHigh": {}
+    },
+    "exDividendDate": {
+      "raw": 1681257600,
+      "fmt": "2023-04-12"
+    },
+    "dividendDate": {
+      "raw": 1681430400,
+      "fmt": "2023-04-14"
+    }
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 20.7,
+      "fmt": "20.70"
+    },
+    "regularMarketOpen": {
+      "raw": 20.89,
+      "fmt": "20.89"
+    },
+    "twoHundredDayAverage": {
+      "raw": 17.88705,
+      "fmt": "17.89"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0.026570048,
+      "fmt": "2.66%"
+    },
+    "payoutRatio": {
+      "raw": 0.22219999,
+      "fmt": "22.22%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 21.03,
+      "fmt": "21.03"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 7761880,
+      "fmt": "7.76M",
+      "longFmt": "7,761,880"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 20.7,
+      "fmt": "20.70"
+    },
+    "fiftyDayAverage": {
+      "raw": 20.98,
+      "fmt": "20.98"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 0.55,
+      "fmt": "0.55"
+    },
+    "open": {
+      "raw": 20.89,
+      "fmt": "20.89"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 7761880,
+      "fmt": "7.76M",
+      "longFmt": "7,761,880"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {
+      "raw": 0.28,
+      "fmt": "0.28"
+    },
+    "exDividendDate": {
+      "raw": 1681257600,
+      "fmt": "2023-04-12"
+    },
+    "beta": {
+      "raw": 1.115667,
+      "fmt": "1.12"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 20.74,
+      "fmt": "20.74"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "trailingPE": {
+      "raw": 9.333333,
+      "fmt": "9.33"
+    },
+    "regularMarketVolume": {
+      "raw": 4961390,
+      "fmt": "4.96M",
+      "longFmt": "4,961,390"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 66576297984,
+      "fmt": "66.58B",
+      "longFmt": "66,576,297,984"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 4508683,
+      "fmt": "4.51M",
+      "longFmt": "4,508,683"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 1.9345139,
+      "fmt": "1.93"
+    },
+    "dayLow": {
+      "raw": 20.74,
+      "fmt": "20.74"
+    },
+    "ask": {
+      "raw": 20.93,
+      "fmt": "20.93"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 1100,
+      "fmt": "1.1k",
+      "longFmt": "1,100"
+    },
+    "volume": {
+      "raw": 4961390,
+      "fmt": "4.96M",
+      "longFmt": "4,961,390"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 22.298,
+      "fmt": "22.30"
+    },
+    "forwardPE": {
+      "raw": 8.433735,
+      "fmt": "8.43"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {
+      "raw": 3.73,
+      "fmt": "3.73"
+    },
+    "fiftyTwoWeekLow": {
+      "raw": 13.8,
+      "fmt": "13.80"
+    },
+    "bid": {
+      "raw": 20.9,
+      "fmt": "20.90"
+    },
+    "tradeable": false,
+    "dividendYield": {
+      "raw": 0.013300001,
+      "fmt": "1.33%"
+    },
+    "bidSize": {
+      "raw": 2200,
+      "fmt": "2.2k",
+      "longFmt": "2,200"
+    },
+    "dayHigh": {
+      "raw": 21.03,
+      "fmt": "21.03"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "UBS",
+  "esgScores": {
+    "palmOil": false,
+    "peerSocialPerformance": {
+      "min": 1.62,
+      "avg": 8.123333333333331,
+      "max": 16.34
+    },
+    "controversialWeapons": false,
+    "ratingMonth": 8,
+    "gambling": false,
+    "socialScore": {
+      "raw": 11,
+      "fmt": "11.0"
+    },
+    "nuclear": false,
+    "furLeather": false,
+    "alcoholic": false,
+    "gmo": false,
+    "catholic": false,
+    "socialPercentile": null,
+    "peerGovernancePerformance": {
+      "min": 5.03,
+      "avg": 9.919166666666666,
+      "max": 19.3
+    },
+    "peerCount": 86,
+    "relatedControversy": [
+      "Customer Incidents",
+      "Business Ethics Incidents"
+    ],
+    "governanceScore": {
+      "raw": 10.45,
+      "fmt": "10.4"
+    },
+    "environmentPercentile": null,
+    "animalTesting": false,
+    "peerEsgScorePerformance": {
+      "min": 8.16,
+      "avg": 19.482906976744182,
+      "max": 36.83
+    },
+    "tobacco": false,
+    "totalEsg": {
+      "raw": 22.66,
+      "fmt": "22.7"
+    },
+    "highestControversy": 3,
+    "esgPerformance": "AVG_PERF",
+    "coal": false,
+    "peerHighestControversyPerformance": {
+      "min": 0,
+      "avg": 1.569767441860465,
+      "max": 4
+    },
+    "pesticides": false,
+    "adult": false,
+    "ratingYear": 2022,
+    "maxAge": 86400,
+    "percentile": {
+      "raw": 34.77,
+      "fmt": "35"
+    },
+    "peerGroup": "Diversified Financials",
+    "smallArms": false,
+    "peerEnvironmentPerformance": {
+      "min": 0,
+      "avg": 1.2188095238095233,
+      "max": 3.1
+    },
+    "environmentScore": {
+      "raw": 1.21,
+      "fmt": "1.2"
+    },
+    "governancePercentile": null,
+    "militaryContract": false
+  },
+  "upgradeDowngradeHistory": {
+    "history": [
+      {
+        "epochGradeDate": 1679305633,
+        "firm": "Oddo Securities",
+        "toGrade": "Underperform",
+        "fromGrade": "Neutral",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1658832697,
+        "firm": "B of A Securities",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1643026496,
+        "firm": "Barclays",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Underweight",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1641555925,
+        "firm": "Exane BNP Paribas",
+        "toGrade": "Outperform",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1632912665,
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "Sector Perform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1626344830,
+        "firm": "Jefferies",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1621420938,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1610726995,
+        "firm": "Berenberg",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1568111989,
+        "firm": "Kepler Cheuvreux",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1566384946,
+        "firm": "DZ Bank",
+        "toGrade": "Sell",
+        "fromGrade": "Hold",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1563979387,
+        "firm": "Societe Generale",
+        "toGrade": "Sell",
+        "fromGrade": "",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1510319117,
+        "firm": "Bank of America",
+        "toGrade": "Buy",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1484225962,
+        "firm": "Societe Generale",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1481576085,
+        "firm": "JP Morgan",
+        "toGrade": "Neutral",
+        "fromGrade": "Underweight",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1481022818,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "Equal-Weight",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1478788374,
+        "firm": "Keefe Bruyette & Woods",
+        "toGrade": "Outperform",
+        "fromGrade": "Underperform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1475662560,
+        "firm": "RBC Capital",
+        "toGrade": "Sector Perform",
+        "fromGrade": "Underperform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1474272118,
+        "firm": "Credit Suisse",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1468308842,
+        "firm": "Bernstein",
+        "toGrade": "Underperform",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1467097496,
+        "firm": "RBC Capital",
+        "toGrade": "Underperform",
+        "fromGrade": "Sector Perform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1465453928,
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "Equal-Weight",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1463120486,
+        "firm": "Societe Generale",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1462297092,
+        "firm": "Morgan Stanley",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Overweight",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1455720415,
+        "firm": "UBS",
+        "toGrade": "Sell",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1455006516,
+        "firm": "Kepler Cheuvreux",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1454482152,
+        "firm": "RBC Capital",
+        "toGrade": "Sector Perform",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1454405912,
+        "firm": "J. Safra Sarasin",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1452146212,
+        "firm": "Barclays",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Overweight",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1446531484,
+        "firm": "Bank of America",
+        "toGrade": "Underperform",
+        "fromGrade": "Neutral",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1446011058,
+        "firm": "JP Morgan",
+        "toGrade": "Neutral",
+        "fromGrade": "Overweight",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1442292669,
+        "firm": "Goldman Sachs",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1434353742,
+        "firm": "Mediobanca Securities",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1432105956,
+        "firm": "Bank of America",
+        "toGrade": "Buy",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1424936121,
+        "firm": "Exane BNP Paribas",
+        "toGrade": "Underperform",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1399381431,
+        "firm": "Rafferty",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1396304847,
+        "firm": "JP Morgan",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1392739200,
+        "firm": "Jefferies",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1389164420,
+        "firm": "Credit Suisse",
+        "toGrade": "Neutral",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1389084582,
+        "firm": "Societe Generale",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1385536816,
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "Sector Perform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1383636326,
+        "firm": "MainFirst",
+        "toGrade": "Outperform",
+        "fromGrade": "Market Perform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1383148800,
+        "firm": "Bank of America",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1375261551,
+        "firm": "Keefe Bruyette & Woods",
+        "toGrade": "Market Perform",
+        "fromGrade": "Underperform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1371744000,
+        "firm": "Bankhaus Lampe",
+        "toGrade": "Sell",
+        "fromGrade": "Hold",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1369739163,
+        "firm": "Societe Generale",
+        "toGrade": "Sell",
+        "fromGrade": "Hold",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1369210974,
+        "firm": "Keefe Bruyette & Woods",
+        "toGrade": "Underperform",
+        "fromGrade": "Market Perform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1366352810,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1361264276,
+        "firm": "Credit Suisse",
+        "toGrade": "Neutral",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1359532151,
+        "firm": "Exane BNP Paribas",
+        "toGrade": "Neutral",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1359029331,
+        "firm": "Societe Generale",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1352181540,
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "Equal-Weight",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1351775700,
+        "firm": "Societe Generale",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1343816460,
+        "firm": "Rochdale Securities",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1335963780,
+        "firm": "Deutsche Bank",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "up"
+      }
+    ],
+    "maxAge": 86400
+  },
+  "pageViews": {
+    "shortTermTrend": "UP",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  }
+}
