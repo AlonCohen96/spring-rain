@@ -1,0 +1,501 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /*background-color: #dce1de;
+  background-color: #253551;
+  background-color: #023e8a;*/
+  background-color: #0077b6;
+  color: #444444;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+.app {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-areas:
+    "watchlist"
+    "ticker-search-bar-container"
+    "stocks-container";
+}
+
+@media only screen and (min-width: 768px){
+  .app{
+    display: grid;
+    grid-template-columns: 20% auto;
+    grid-template-areas:
+    "watchlist ticker-search-bar-container"
+    "watchlist stocks-container";
+  }
+}
+
+@media only screen and (min-width: 1800px){
+  .app{
+    display: grid;
+    grid-template-columns: 10% auto;
+    grid-template-areas:
+    "watchlist ticker-search-bar-container"
+    "watchlist stocks-container";
+  }
+}
+
+
+/* ---------------------------- Watchlist ---------------------------- */
+.watchlist{
+  grid-area: watchlist;
+  background: #fbb03b;
+  box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 5px;
+}
+
+.watchlist>div:nth-last-child(1){
+  border: none;
+  padding: 0;
+}
+
+@media only screen and (min-width: 768px){
+  .watchlist{
+    grid-area: watchlist;
+    height: 100%;
+    min-height: 100vh;
+    margin: 0 30px 0 0;
+    background: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 5px;
+  }
+}
+
+.watchlist-header{
+  display: none;
+}
+
+@media only screen and (min-width: 768px){
+  .watchlist-header{
+    display: block;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    background: #fbb03b;
+    color: #253551;
+    padding: 8px 0;
+  }
+}
+
+.stock-mini-box {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1rem;
+  border-bottom: 1px solid #444444;
+  margin: 5px 5px;
+}
+
+@media only screen and (min-width: 768px) {
+  .stock-mini-box {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5rem;
+    border-bottom: 2px solid #444444;
+    padding: 0 0 5px;
+    margin: 5px 10px;
+  }
+}
+
+.watchlist-ticker:hover{
+  cursor: pointer;
+}
+
+.watchlist-icon{
+  height: 1.5rem;
+  margin: auto 0 auto;
+}
+
+.watchlist-icon:hover{
+  background: #dce1de;
+  cursor: pointer;
+}
+
+
+/* ---------------------------- Ticker Search Bar ---------------------------- */
+
+.ticker-search-bar-container{
+  grid-area: ticker-search-bar-container;
+  margin: 10px 10px ;
+}
+
+@media only screen and (min-width: 768px) {
+  .ticker-search-bar-container {
+    grid-area: ticker-search-bar-container;
+    margin: 20px 20px 0 0;
+  }
+}
+
+.ticker-search-bar-form{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 0 1rem;
+}
+
+@media only screen and (min-width: 768px) {
+  .ticker-search-bar-form{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 2rem;
+  }
+}
+
+.ticker-search-bar-and-button-container{
+  display: flex;
+  background: whitesmoke;
+  border-radius: 20px;
+  padding: 5px;
+  box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 5px;
+}
+
+.ticker-search-bar{
+  height: 2rem;
+  font-size: 1rem;
+  border: none;
+  background: none;
+}
+
+@media only screen and (min-width: 768px) {
+  .ticker-search-bar {
+    height: 2rem;
+    width: 20vw;
+    font-size: 1rem;
+    border: none;
+    background: none;
+  }
+}
+
+.ticker-search-bar:focus, .ticker-search-bar:active {
+  outline: none;
+}
+
+.ticker-search-button{
+  height: 2rem;
+  font-size: 1.5rem;
+  border: none;
+  background: none;
+}
+
+/* ---------------------------- Stocks Container ---------------------------- */
+
+.stocks-container{
+  grid-area: stocks-container;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.stock-info-box {
+  display: flex;
+  flex-direction: column;
+  resize: both;
+  overflow: auto;
+  padding: 1rem;
+  margin: 0 0 1rem 0;
+  min-width: 25vw;
+  min-height: 25vw;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 5px;
+}
+
+@media only screen and (min-width: 768px) {
+  .stock-info-box {
+    display: flex;
+    flex-direction: column;
+    resize: both;
+    overflow: auto;
+    padding: 1rem;
+    margin: 0 1rem 1rem 0;
+    min-width: 25vw;
+    min-height: 25vw;
+    max-width: 50vw;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 5px;
+  }
+}
+
+.stock-info-box-header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.button-container>img{
+  border: 1px solid #dce1de;
+  border-radius: 10%;
+}
+
+.button-container>img:hover{
+  background: #dce1de;
+  cursor: pointer;
+}
+
+.stock-info-box-icon{
+  height: 2rem;
+  width: 2rem;
+}
+
+.arrow-icon{
+  height: 1rem;
+  width: 1rem;
+}
+
+.company-name{
+  font-size: 0.8rem;
+}
+
+.stock-symbol{
+  font-size: 2rem;
+}
+
+.stock-price{
+  display: inline;
+  font-size: 3rem;
+}
+
+.percentage-change{
+  display: inline;
+}
+
+.time-frame-buttons-container{
+  display: flex;
+  margin: 15px 0 5px 20px;
+}
+
+.time-frame-buttons-container>button{
+  width: 50px;
+  background: none;
+  border: none;
+  border-right: 1px solid #dce1de;
+  border-bottom: 1px solid whitesmoke;
+  font-size: 1rem;
+}
+
+.time-frame-buttons-container>button:nth-last-child(1)  {
+  border-right: none;
+}
+
+.time-frame-buttons-container>button:hover {
+  cursor: pointer;
+  color: #168aad;
+  border-bottom: 1px solid #168aad;
+}
+
+.active-time-frame-button{
+  color: #168aad;
+  border-bottom: 2px solid #168aad !important;
+}
+
+.section-container{
+  border-top: 1px solid black;
+  padding: 0.5rem 0 0.5rem;
+}
+
+.section-header{
+  display: flex;
+  justify-content: space-between;
+}
+
+.ownership-chart-container{
+  display: none;
+  height: 25rem;
+  width: 85vw;
+  padding: 0 0 1rem 0;
+  margin: auto;
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+@media only screen and (min-width: 768px){
+  .ownership-chart-container{
+    display: none;
+    height: 30rem;
+    width: 42vw;
+    padding: 0 0 2vw 0;
+    margin: auto;
+    text-align: center;
+    font-size: 0.8rem;
+  }
+}
+
+@media only screen and (min-width: 1800px){
+  .ownership-chart-container{
+    display: none;
+    height: 40vh;
+    width: 20vw;
+    padding: 0 0 2vw 0;
+    margin: auto;
+    text-align: center;
+    font-size: 0.8rem;
+  }
+}
+
+.stock-price-chart-container{
+  height: 25vh;
+}
+
+.list-content{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.list-content>div{
+  border-top: 1px solid #dce1de;
+  padding: 0.4rem;
+}
+
+.list-content>div:nth-child(odd) {
+  margin: 0 0 0 0.5rem;
+}
+
+.list-content>div:nth-child(2n) {
+  margin: 0 0.5rem 0 0;
+  text-align: right;
+}
+
+.company-profile{
+  margin: 0 0.5rem 0 0.5rem;
+  text-align: justify;
+  font-size: 0.9rem;
+}
+
+.analyst-ratings-container{
+  display: flex;
+  justify-content: center;
+}
+
+.price-target-container{
+  border-radius: 10%;
+  text-align: center;
+  margin: 0 2rem 1rem;
+}
+
+.price-target-container>div{
+  padding: 0 1rem;
+}
+
+.price-target-container>div:first-child {
+  padding: 0.2rem 0.5rem;
+  color: whitesmoke;
+}
+
+.price-target-container>div:nth-child(2){
+  font-size: 1.5rem;
+}
+
+.buy{
+  border: 3px solid green;
+}
+
+.buy>div:first-child {
+  background: green;
+}
+
+.buy>div:nth-last-child(1){
+  color: green;
+}
+
+.sell{
+  border: 1px solid red;
+}
+
+.sell>div:first-child {
+  background: red;
+}
+
+.sell>div:nth-last-child(1){
+  color: red;
+}
+
+.consensus-container{
+  font-size: 0.9rem;
+  margin: 0 0 1rem;
+}
+
+.consensus-container>div{
+  margin: 0;
+}
+.consensus-container>div:nth-child(2){
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+
+
+/* ---------------------------- Clear All BTN ---------------------------- */
+
+#close-all-btn{
+  height: 2rem;
+  font-size: 1rem;
+  background: whitesmoke;
+  border: none;
+  border-radius: 20px;
+  padding: 6px 10px;
+  box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 5px;
+}
+
+@media only screen and (min-width: 768px){
+  #close-all-btn{
+    height: 2rem;
+    font-size: 1rem;
+    background: whitesmoke;
+    border: none;
+    border-radius: 20px;
+    padding: 6px 10px;
+    margin: 0 1rem;
+    box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 5px;
+  }
+}
+
+#close-all-btn:hover{
+  background: #dce1de;
+  cursor: pointer;
+}
+
+/* ---------------------------- Spinner Animation ---------------------------- */
+
+.lds-ring {
+  display: inline-block;
+  position: relative;
+  width: 2rem;
+  height: 2rem;
+}
+.lds-ring div {
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  width: 1.5rem;
+  height: 1.5rem;
+  margin: 4px;
+  border: 2px solid black;
+  border-radius: 50%;
+  animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+  border-color: black transparent transparent transparent;
+}
+.lds-ring div:nth-child(1) {
+  animation-delay: -0.45s;
+}
+.lds-ring div:nth-child(2) {
+  animation-delay: -0.3s;
+}
+.lds-ring div:nth-child(3) {
+  animation-delay: -0.15s;
+}
+@keyframes lds-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+

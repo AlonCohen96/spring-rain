@@ -1,0 +1,6455 @@
+{
+  "defaultKeyStatistics": {
+    "annualHoldingsTurnover": {},
+    "enterpriseToRevenue": {
+      "raw": 6.833,
+      "fmt": "6.83"
+    },
+    "beta3Year": {},
+    "profitMargins": {
+      "raw": 0.22188999,
+      "fmt": "22.19%"
+    },
+    "enterpriseToEbitda": {
+      "raw": 21.749,
+      "fmt": "21.75"
+    },
+    "52WeekChange": {
+      "raw": 0.0056581497,
+      "fmt": "0.57%"
+    },
+    "morningStarRiskRating": {},
+    "forwardEps": {
+      "raw": 2.8,
+      "fmt": "2.8"
+    },
+    "revenueQuarterlyGrowth": {},
+    "sharesOutstanding": {
+      "raw": 4326689792,
+      "fmt": "4.33B",
+      "longFmt": "4,326,689,792"
+    },
+    "fundInceptionDate": {},
+    "annualReportExpenseRatio": {},
+    "totalAssets": {},
+    "bookValue": {
+      "raw": 5.57,
+      "fmt": "5.57"
+    },
+    "sharesShort": {
+      "raw": 20174603,
+      "fmt": "20.17M",
+      "longFmt": "20,174,603"
+    },
+    "sharesPercentSharesOut": {
+      "raw": 0.0047,
+      "fmt": "0.47%"
+    },
+    "fundFamily": null,
+    "lastFiscalYearEnd": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "heldPercentInstitutions": {
+      "raw": 0.72058,
+      "fmt": "72.06%"
+    },
+    "netIncomeToCommon": {
+      "raw": 9541999616,
+      "fmt": "9.54B",
+      "longFmt": "9,541,999,616"
+    },
+    "trailingEps": {
+      "raw": 2.21,
+      "fmt": "2.21"
+    },
+    "lastDividendValue": {
+      "raw": 0.44,
+      "fmt": "0.44"
+    },
+    "SandP52WeekChange": {
+      "raw": -0.11781025,
+      "fmt": "-11.78%"
+    },
+    "priceToBook": {
+      "raw": 10.7307,
+      "fmt": "10.73"
+    },
+    "heldPercentInsiders": {
+      "raw": 0.00667,
+      "fmt": "0.67%"
+    },
+    "nextFiscalYearEnd": {
+      "raw": 1703980800,
+      "fmt": "2023-12-31"
+    },
+    "yield": {},
+    "mostRecentQuarter": {
+      "raw": 1672444800,
+      "fmt": "2022-12-31"
+    },
+    "shortRatio": {
+      "raw": 1.43,
+      "fmt": "1.43"
+    },
+    "sharesShortPreviousMonthDate": {
+      "raw": 1675123200,
+      "fmt": "2023-01-31"
+    },
+    "floatShares": {
+      "raw": 3895666748,
+      "fmt": "3.9B",
+      "longFmt": "3,895,666,748"
+    },
+    "beta": {
+      "raw": 0.539459,
+      "fmt": "0.54"
+    },
+    "enterpriseValue": {
+      "raw": 293830983680,
+      "fmt": "293.83B",
+      "longFmt": "293,830,983,680"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "threeYearAverageReturn": {},
+    "lastSplitDate": {
+      "raw": 1344816000,
+      "fmt": "2012-08-13"
+    },
+    "lastSplitFactor": "2:1",
+    "legalType": null,
+    "lastDividendDate": {
+      "raw": 1669766400,
+      "fmt": "2022-11-30"
+    },
+    "morningStarOverallRating": {},
+    "earningsQuarterlyGrowth": {
+      "raw": -0.159,
+      "fmt": "-15.90%"
+    },
+    "priceToSalesTrailing12Months": {},
+    "dateShortInterest": {
+      "raw": 1677542400,
+      "fmt": "2023-02-28"
+    },
+    "pegRatio": {
+      "raw": 3.85,
+      "fmt": "3.85"
+    },
+    "ytdReturn": {},
+    "forwardPE": {
+      "raw": 21.34643,
+      "fmt": "21.35"
+    },
+    "maxAge": 1,
+    "lastCapGain": {},
+    "shortPercentOfFloat": {
+      "raw": 0.0047,
+      "fmt": "0.47%"
+    },
+    "sharesShortPriorMonth": {
+      "raw": 24872812,
+      "fmt": "24.87M",
+      "longFmt": "24,872,812"
+    },
+    "impliedSharesOutstanding": {
+      "raw": 0,
+      "fmt": null,
+      "longFmt": "0"
+    },
+    "category": null,
+    "fiveYearAverageReturn": {}
+  },
+  "details": {},
+  "summaryProfile": {
+    "zip": "30313",
+    "sector": "Consumer Defensive",
+    "fullTimeEmployees": 82500,
+    "longBusinessSummary": "The Coca-Cola Company, a beverage company, manufactures, markets, and sells various nonalcoholic beverages worldwide. The company provides sparkling soft drinks, sparkling flavors; water, sports, coffee, and tea; juice, value-added dairy, and plant-based beverages; and other beverages. It also offers beverage concentrates and syrups, as well as fountain syrups to fountain retailers, such as restaurants and convenience stores. The company sells its products under the Coca-Cola, Diet Coke/Coca-Cola Light, Coca-Cola Zero Sugar, Diet Coke, Cherry Coke, Fanta Orange, Fanta Zero Orange, Fanta Zero Sugar, Fanta Apple, Sprite, Sprite Zero Sugar, Simply Orange, Simply Apple, Simply Grapefruit, Fresca, Schweppes, Thums Up, Aquarius, Ayataka, BODYARMOR, Ciel, Costa, Dasani, dogadan, FUZE TEA, Georgia, glacéau smartwater, glacéau vitaminwater, Gold Peak, Ice Dew, I LOHAS, Powerade, Topo Chico, AdeS, Del Valle, fairlife, innocent, Minute Maid, and Minute Maid Pulpy brands. It operates through a network of independent bottling partners, distributors, wholesalers, and retailers, as well as through bottling and distribution operators. The company was founded in 1886 and is headquartered in Atlanta, Georgia.",
+    "city": "Atlanta",
+    "phone": "404 676 2121",
+    "state": "GA",
+    "country": "United States",
+    "companyOfficers": [],
+    "website": "https://www.coca-colacompany.com",
+    "maxAge": 86400,
+    "address1": "One Coca-Cola Plaza",
+    "industry": "Beverages—Non-Alcoholic"
+  },
+  "recommendationTrend": {
+    "trend": [
+      {
+        "period": "0m",
+        "strongBuy": 4,
+        "buy": 7,
+        "hold": 13,
+        "sell": 1,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 4,
+        "buy": 16,
+        "hold": 7,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 4,
+        "buy": 16,
+        "hold": 7,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 4,
+        "buy": 14,
+        "hold": 10,
+        "sell": 0,
+        "strongSell": 0
+      }
+    ],
+    "maxAge": 86400
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "holders": [],
+    "maxAge": 1
+  },
+  "earnings": {
+    "maxAge": 86400,
+    "earningsChart": {
+      "quarterly": [
+        {
+          "date": "1Q2022",
+          "actual": {
+            "raw": 0.64,
+            "fmt": "0.64"
+          },
+          "estimate": {
+            "raw": 0.58,
+            "fmt": "0.58"
+          }
+        },
+        {
+          "date": "2Q2022",
+          "actual": {
+            "raw": 0.7,
+            "fmt": "0.70"
+          },
+          "estimate": {
+            "raw": 0.67,
+            "fmt": "0.67"
+          }
+        },
+        {
+          "date": "3Q2022",
+          "actual": {
+            "raw": 0.69,
+            "fmt": "0.69"
+          },
+          "estimate": {
+            "raw": 0.64,
+            "fmt": "0.64"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "actual": {
+            "raw": 0.45,
+            "fmt": "0.45"
+          },
+          "estimate": {
+            "raw": 0.45,
+            "fmt": "0.45"
+          }
+        }
+      ],
+      "currentQuarterEstimate": {
+        "raw": 0.65,
+        "fmt": "0.65"
+      },
+      "currentQuarterEstimateDate": "1Q",
+      "currentQuarterEstimateYear": 2023,
+      "earningsDate": [
+        {
+          "raw": 1682339400,
+          "fmt": "2023-04-24"
+        },
+        {
+          "raw": 1682685000,
+          "fmt": "2023-04-28"
+        }
+      ]
+    },
+    "financialsChart": {
+      "yearly": [
+        {
+          "date": 2019,
+          "revenue": {
+            "raw": 37266000000,
+            "fmt": "37.27B",
+            "longFmt": "37,266,000,000"
+          },
+          "earnings": {
+            "raw": 8920000000,
+            "fmt": "8.92B",
+            "longFmt": "8,920,000,000"
+          }
+        },
+        {
+          "date": 2020,
+          "revenue": {
+            "raw": 33014000000,
+            "fmt": "33.01B",
+            "longFmt": "33,014,000,000"
+          },
+          "earnings": {
+            "raw": 7747000000,
+            "fmt": "7.75B",
+            "longFmt": "7,747,000,000"
+          }
+        },
+        {
+          "date": 2021,
+          "revenue": {
+            "raw": 38655000000,
+            "fmt": "38.66B",
+            "longFmt": "38,655,000,000"
+          },
+          "earnings": {
+            "raw": 9771000000,
+            "fmt": "9.77B",
+            "longFmt": "9,771,000,000"
+          }
+        },
+        {
+          "date": 2022,
+          "revenue": {
+            "raw": 43004000000,
+            "fmt": "43B",
+            "longFmt": "43,004,000,000"
+          },
+          "earnings": {
+            "raw": 9542000000,
+            "fmt": "9.54B",
+            "longFmt": "9,542,000,000"
+          }
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2Q2022",
+          "revenue": {
+            "raw": 10491000000,
+            "fmt": "10.49B",
+            "longFmt": "10,491,000,000"
+          },
+          "earnings": {
+            "raw": 2781000000,
+            "fmt": "2.78B",
+            "longFmt": "2,781,000,000"
+          }
+        },
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 11325000000,
+            "fmt": "11.32B",
+            "longFmt": "11,325,000,000"
+          },
+          "earnings": {
+            "raw": 1905000000,
+            "fmt": "1.91B",
+            "longFmt": "1,905,000,000"
+          }
+        },
+        {
+          "date": "3Q2022",
+          "revenue": {
+            "raw": 11063000000,
+            "fmt": "11.06B",
+            "longFmt": "11,063,000,000"
+          },
+          "earnings": {
+            "raw": 2825000000,
+            "fmt": "2.83B",
+            "longFmt": "2,825,000,000"
+          }
+        },
+        {
+          "date": "4Q2022",
+          "revenue": {
+            "raw": 10125000000,
+            "fmt": "10.12B",
+            "longFmt": "10,125,000,000"
+          },
+          "earnings": {
+            "raw": 2031000000,
+            "fmt": "2.03B",
+            "longFmt": "2,031,000,000"
+          }
+        }
+      ]
+    },
+    "financialCurrency": "USD"
+  },
+  "price": {
+    "quoteSourceName": "Nasdaq Real Time Price",
+    "regularMarketOpen": {
+      "raw": 60.09,
+      "fmt": "60.09"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 13103059,
+      "fmt": "13.1M",
+      "longFmt": "13,103,059"
+    },
+    "exchange": "NYQ",
+    "regularMarketTime": 1678983266,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 60.18,
+      "fmt": "60.18"
+    },
+    "shortName": "Coca-Cola Company (The)",
+    "averageDailyVolume10Day": {
+      "raw": 15613110,
+      "fmt": "15.61M",
+      "longFmt": "15,613,110"
+    },
+    "longName": "The Coca-Cola Company",
+    "regularMarketChange": {
+      "raw": -0.20000076,
+      "fmt": "-0.20"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 59.97,
+      "fmt": "59.97"
+    },
+    "preMarketPrice": {
+      "raw": 59.884,
+      "fmt": "59.88"
+    },
+    "preMarketTime": 1678973399,
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {},
+    "postMarketPrice": {},
+    "exchangeName": "NYSE",
+    "preMarketChange": {
+      "raw": -0.0860023,
+      "fmt": "-0.09"
+    },
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 59.7,
+      "fmt": "59.70"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 59.77,
+      "fmt": "59.77"
+    },
+    "regularMarketVolume": {
+      "raw": 4716544,
+      "fmt": "4.72M",
+      "longFmt": "4,716,544.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "FREE_REALTIME",
+    "openInterest": {},
+    "marketState": "REGULAR",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 258606252032,
+      "fmt": "258.61B",
+      "longFmt": "258,606,252,032.00"
+    },
+    "quoteType": "EQUITY",
+    "preMarketChangePercent": {
+      "raw": -0.00143409,
+      "fmt": "-0.14%"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "symbol": "KO",
+    "preMarketSource": "FREE_REALTIME",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": -0.0033350133,
+      "fmt": "-0.33%"
+    }
+  },
+  "fundOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1664496000,
+          "fmt": "2022-09-30"
+        },
+        "organization": "Vanguard Total Stock Market Index Fund",
+        "pctHeld": {
+          "raw": 0.0269,
+          "fmt": "2.69%"
+        },
+        "position": {
+          "raw": 116157609,
+          "fmt": "116.16M",
+          "longFmt": "116,157,609"
+        },
+        "value": {
+          "raw": 6942740343,
+          "fmt": "6.94B",
+          "longFmt": "6,942,740,343"
+        },
+        "pctChange": {
+          "raw": 0.0112,
+          "fmt": "1.12%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1664496000,
+          "fmt": "2022-09-30"
+        },
+        "organization": "Vanguard 500 Index Fund",
+        "pctHeld": {
+          "raw": 0.020399999,
+          "fmt": "2.04%"
+        },
+        "position": {
+          "raw": 88230534,
+          "fmt": "88.23M",
+          "longFmt": "88,230,534"
+        },
+        "value": {
+          "raw": 5273539057,
+          "fmt": "5.27B",
+          "longFmt": "5,273,539,057"
+        },
+        "pctChange": {
+          "raw": 0.0217,
+          "fmt": "2.17%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "SPDR S&P 500 ETF Trust",
+        "pctHeld": {
+          "raw": 0.0099,
+          "fmt": "0.99%"
+        },
+        "position": {
+          "raw": 42943664,
+          "fmt": "42.94M",
+          "longFmt": "42,943,664"
+        },
+        "value": {
+          "raw": 2566742816,
+          "fmt": "2.57B",
+          "longFmt": "2,566,742,816"
+        },
+        "pctChange": {
+          "raw": -0.0018000001,
+          "fmt": "-0.18%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Fidelity 500 Index Fund",
+        "pctHeld": {
+          "raw": 0.0099,
+          "fmt": "0.99%"
+        },
+        "position": {
+          "raw": 42645786,
+          "fmt": "42.65M",
+          "longFmt": "42,645,786"
+        },
+        "value": {
+          "raw": 2548938648,
+          "fmt": "2.55B",
+          "longFmt": "2,548,938,648"
+        },
+        "pctChange": {
+          "raw": 0.0104,
+          "fmt": "1.04%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "iShares Core S&P 500 ETF",
+        "pctHeld": {
+          "raw": 0.0081,
+          "fmt": "0.81%"
+        },
+        "position": {
+          "raw": 34950445,
+          "fmt": "34.95M",
+          "longFmt": "34,950,445"
+        },
+        "value": {
+          "raw": 2088988113,
+          "fmt": "2.09B",
+          "longFmt": "2,088,988,113"
+        },
+        "pctChange": {
+          "raw": -0.0066000004,
+          "fmt": "-0.66%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1664496000,
+          "fmt": "2022-09-30"
+        },
+        "organization": "Vanguard Index-Value Index Fund",
+        "pctHeld": {
+          "raw": 0.007900001,
+          "fmt": "0.79%"
+        },
+        "position": {
+          "raw": 34162812,
+          "fmt": "34.16M",
+          "longFmt": "34,162,812"
+        },
+        "value": {
+          "raw": 2041911288,
+          "fmt": "2.04B",
+          "longFmt": "2,041,911,288"
+        },
+        "pctChange": {
+          "raw": 0.0127,
+          "fmt": "1.27%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Select Sector SPDR Fund-Consumer Staples",
+        "pctHeld": {
+          "raw": 0.0067000003,
+          "fmt": "0.67%"
+        },
+        "position": {
+          "raw": 29037164,
+          "fmt": "29.04M",
+          "longFmt": "29,037,164"
+        },
+        "value": {
+          "raw": 1735551305,
+          "fmt": "1.74B",
+          "longFmt": "1,735,551,305"
+        },
+        "pctChange": {
+          "raw": 0.0058999998,
+          "fmt": "0.59%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1664496000,
+          "fmt": "2022-09-30"
+        },
+        "organization": "Vanguard Institutional Index Fund-Institutional Index Fund",
+        "pctHeld": {
+          "raw": 0.0064999997,
+          "fmt": "0.65%"
+        },
+        "position": {
+          "raw": 28261606,
+          "fmt": "28.26M",
+          "longFmt": "28,261,606"
+        },
+        "value": {
+          "raw": 1689196203,
+          "fmt": "1.69B",
+          "longFmt": "1,689,196,203"
+        },
+        "pctChange": {
+          "raw": -0.0223,
+          "fmt": "-2.23%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1669766400,
+          "fmt": "2022-11-30"
+        },
+        "organization": "Schwab Strategic Tr-Schwab U.S. Dividend Equity ETF",
+        "pctHeld": {
+          "raw": 0.0061000003,
+          "fmt": "0.61%"
+        },
+        "position": {
+          "raw": 26501212,
+          "fmt": "26.5M",
+          "longFmt": "26,501,212"
+        },
+        "value": {
+          "raw": 1583977453,
+          "fmt": "1.58B",
+          "longFmt": "1,583,977,453"
+        },
+        "pctChange": {
+          "raw": 0.0514,
+          "fmt": "5.14%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1669766400,
+          "fmt": "2022-11-30"
+        },
+        "organization": "Vanguard/Wellington Fund Inc.",
+        "pctHeld": {
+          "raw": 0.006,
+          "fmt": "0.60%"
+        },
+        "position": {
+          "raw": 26080066,
+          "fmt": "26.08M",
+          "longFmt": "26,080,066"
+        },
+        "value": {
+          "raw": 1558805556,
+          "fmt": "1.56B",
+          "longFmt": "1,558,805,556"
+        },
+        "pctChange": {
+          "raw": -0.0163,
+          "fmt": "-1.63%"
+        }
+      }
+    ]
+  },
+  "insiderTransactions": {
+    "transactions": [
+      {
+        "filerName": "QUINCEY JAMES",
+        "transactionText": "Sale at price 60.50 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1678147200,
+          "fmt": "2023-03-07"
+        },
+        "value": {
+          "raw": 2808470,
+          "fmt": "2.81M",
+          "longFmt": "2,808,470"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 46421,
+          "fmt": "46.42k",
+          "longFmt": "46,421"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PIETRACCI BRUNO",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1677715200,
+          "fmt": "2023-03-02"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 21745,
+          "fmt": "21.75k",
+          "longFmt": "21,745"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Sale at price 58.71 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1677628800,
+          "fmt": "2023-03-01"
+        },
+        "value": {
+          "raw": 4344599,
+          "fmt": "4.34M",
+          "longFmt": "4,344,599"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 74000,
+          "fmt": "74k",
+          "longFmt": "74,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.20 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1677628800,
+          "fmt": "2023-03-01"
+        },
+        "value": {
+          "raw": 2753170,
+          "fmt": "2.75M",
+          "longFmt": "2,753,170"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 74000,
+          "fmt": "74k",
+          "longFmt": "74,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RANDAZZA MARK",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1677456000,
+          "fmt": "2023-02-27"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 2445,
+          "fmt": "2.44k",
+          "longFmt": "2,445"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 35938,
+          "fmt": "35.94k",
+          "longFmt": "35,938"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUINCEY JAMES",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 522280,
+          "fmt": "522.28k",
+          "longFmt": "522,280"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH BRIAN JOHN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Other Executive",
+        "shares": {
+          "raw": 189914,
+          "fmt": "189.91k",
+          "longFmt": "189,914"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MURPHY JOHN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 174088,
+          "fmt": "174.09k",
+          "longFmt": "174,088"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANN JENNIFER K",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 72740,
+          "fmt": "72.74k",
+          "longFmt": "72,740"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RANDAZZA MARK",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 6418,
+          "fmt": "6.42k",
+          "longFmt": "6,418"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOUMETTIS NIKOLAOS",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 90926,
+          "fmt": "90.93k",
+          "longFmt": "90,926"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ARROYO MANUEL",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 137718,
+          "fmt": "137.72k",
+          "longFmt": "137,718"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 59394,
+          "fmt": "59.39k",
+          "longFmt": "59,394"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "CHANG LISA",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 44192,
+          "fmt": "44.19k",
+          "longFmt": "44,192"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "DOUGLAS MONICA HOWARD",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "General Counsel",
+        "shares": {
+          "raw": 4644,
+          "fmt": "4.64k",
+          "longFmt": "4,644"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOVELESS KATHY",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 7176,
+          "fmt": "7.18k",
+          "longFmt": "7,176"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BRAUN HENRIQUE",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 37116,
+          "fmt": "37.12k",
+          "longFmt": "37,116"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PIETRACCI BRUNO",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 37984,
+          "fmt": "37.98k",
+          "longFmt": "37,984"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUINCEY JAMES",
+        "transactionText": "Sale at price 60.32 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676246400,
+          "fmt": "2023-02-13"
+        },
+        "value": {
+          "raw": 2103754,
+          "fmt": "2.1M",
+          "longFmt": "2,103,754"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 34875,
+          "fmt": "34.88k",
+          "longFmt": "34,875"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUINCEY JAMES",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1676246400,
+          "fmt": "2023-02-13"
+        },
+        "value": {
+          "raw": 1311649,
+          "fmt": "1.31M",
+          "longFmt": "1,311,649"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 34875,
+          "fmt": "34.88k",
+          "longFmt": "34,875"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH BRIAN JOHN",
+        "transactionText": "Sale at price 62.07 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1673913600,
+          "fmt": "2023-01-17"
+        },
+        "value": {
+          "raw": 7881317,
+          "fmt": "7.88M",
+          "longFmt": "7,881,317"
+        },
+        "filerRelation": "Other Executive",
+        "shares": {
+          "raw": 126972,
+          "fmt": "126.97k",
+          "longFmt": "126,972"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH BRIAN JOHN",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1673913600,
+          "fmt": "2023-01-17"
+        },
+        "value": {
+          "raw": 4775417,
+          "fmt": "4.78M",
+          "longFmt": "4,775,417"
+        },
+        "filerRelation": "Other Executive",
+        "shares": {
+          "raw": 126972,
+          "fmt": "126.97k",
+          "longFmt": "126,972"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH BRIAN JOHN",
+        "transactionText": "Sale at price 63.02 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1671148800,
+          "fmt": "2022-12-16"
+        },
+        "value": {
+          "raw": 5936409,
+          "fmt": "5.94M",
+          "longFmt": "5,936,409"
+        },
+        "filerRelation": "Other Executive",
+        "shares": {
+          "raw": 94200,
+          "fmt": "94.2k",
+          "longFmt": "94,200"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH BRIAN JOHN",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1671148800,
+          "fmt": "2022-12-16"
+        },
+        "value": {
+          "raw": 3542862,
+          "fmt": "3.54M",
+          "longFmt": "3,542,862"
+        },
+        "filerRelation": "Other Executive",
+        "shares": {
+          "raw": 94200,
+          "fmt": "94.2k",
+          "longFmt": "94,200"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "WEINBERG DAVID B",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1668729600,
+          "fmt": "2022-11-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 1200000,
+          "fmt": "1.2M",
+          "longFmt": "1,200,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Sale at price 61.12 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1668729600,
+          "fmt": "2022-11-18"
+        },
+        "value": {
+          "raw": 840198,
+          "fmt": "840.2k",
+          "longFmt": "840,198"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 13746,
+          "fmt": "13.75k",
+          "longFmt": "13,746"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RANDAZZA MARK",
+        "transactionText": "Sale at price 60.86 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1668124800,
+          "fmt": "2022-11-11"
+        },
+        "value": {
+          "raw": 2560322,
+          "fmt": "2.56M",
+          "longFmt": "2,560,322"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 42068,
+          "fmt": "42.07k",
+          "longFmt": "42,068"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RANDAZZA MARK",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.20 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1668124800,
+          "fmt": "2022-11-11"
+        },
+        "value": {
+          "raw": 1565140,
+          "fmt": "1.57M",
+          "longFmt": "1,565,140"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 42068,
+          "fmt": "42.07k",
+          "longFmt": "42,068"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RIVERA ALFREDO",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1667779200,
+          "fmt": "2022-11-07"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 62000,
+          "fmt": "62k",
+          "longFmt": "62,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ALLEN HERBERT A. III",
+        "transactionText": "Purchase at price 60.18 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1666915200,
+          "fmt": "2022-10-28"
+        },
+        "value": {
+          "raw": 1997953,
+          "fmt": "2M",
+          "longFmt": "1,997,953"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 33200,
+          "fmt": "33.2k",
+          "longFmt": "33,200"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BRAUN HENRIQUE",
+        "transactionText": "Sale at price 64.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1661385600,
+          "fmt": "2022-08-25"
+        },
+        "value": {
+          "raw": 728268,
+          "fmt": "728.27k",
+          "longFmt": "728,268"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 11318,
+          "fmt": "11.32k",
+          "longFmt": "11,318"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOVELESS KATHY",
+        "transactionText": "Sale at price 64.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1659052800,
+          "fmt": "2022-07-29"
+        },
+        "value": {
+          "raw": 160768,
+          "fmt": "160.77k",
+          "longFmt": "160,768"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 2512,
+          "fmt": "2.51k",
+          "longFmt": "2,512"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUINCEY JAMES",
+        "transactionText": "Sale at price 64.09 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1658966400,
+          "fmt": "2022-07-28"
+        },
+        "value": {
+          "raw": 2051011,
+          "fmt": "2.05M",
+          "longFmt": "2,051,011"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 32000,
+          "fmt": "32k",
+          "longFmt": "32,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "EVERSON CAROLYN",
+        "transactionText": "Purchase at price 62.29 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1658880000,
+          "fmt": "2022-07-27"
+        },
+        "value": {
+          "raw": 61231,
+          "fmt": "61.23k",
+          "longFmt": "61,231"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 983,
+          "fmt": "983",
+          "longFmt": "983"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Sale at price 64.78 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1651708800,
+          "fmt": "2022-05-05"
+        },
+        "value": {
+          "raw": 9323800,
+          "fmt": "9.32M",
+          "longFmt": "9,323,800"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 143924,
+          "fmt": "143.92k",
+          "longFmt": "143,924"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1651708800,
+          "fmt": "2022-05-05"
+        },
+        "value": {
+          "raw": 5412982,
+          "fmt": "5.41M",
+          "longFmt": "5,412,982"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 143924,
+          "fmt": "143.92k",
+          "longFmt": "143,924"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH BRIAN JOHN",
+        "transactionText": "Sale at price 67.04 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1650844800,
+          "fmt": "2022-04-25"
+        },
+        "value": {
+          "raw": 2400096,
+          "fmt": "2.4M",
+          "longFmt": "2,400,096"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 35800,
+          "fmt": "35.8k",
+          "longFmt": "35,800"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH BRIAN JOHN",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1650844800,
+          "fmt": "2022-04-25"
+        },
+        "value": {
+          "raw": 1346438,
+          "fmt": "1.35M",
+          "longFmt": "1,346,438"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 35800,
+          "fmt": "35.8k",
+          "longFmt": "35,800"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOUMETTIS NIKOLAOS",
+        "transactionText": "Sale at price 65.03 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1650240000,
+          "fmt": "2022-04-18"
+        },
+        "value": {
+          "raw": 9979840,
+          "fmt": "9.98M",
+          "longFmt": "9,979,840"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 153466,
+          "fmt": "153.47k",
+          "longFmt": "153,466"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOUMETTIS NIKOLAOS",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1650240000,
+          "fmt": "2022-04-18"
+        },
+        "value": {
+          "raw": 5771856,
+          "fmt": "5.77M",
+          "longFmt": "5,771,856"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 153466,
+          "fmt": "153.47k",
+          "longFmt": "153,466"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Sale at price 65.00 - 65.09 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1649894400,
+          "fmt": "2022-04-14"
+        },
+        "value": {
+          "raw": 2298579,
+          "fmt": "2.3M",
+          "longFmt": "2,298,579"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 35335,
+          "fmt": "35.34k",
+          "longFmt": "35,335"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.20 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1649894400,
+          "fmt": "2022-04-14"
+        },
+        "value": {
+          "raw": 1488200,
+          "fmt": "1.49M",
+          "longFmt": "1,488,200"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 40000,
+          "fmt": "40k",
+          "longFmt": "40,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANN JENNIFER K",
+        "transactionText": "Sale at price 63.81 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1649376000,
+          "fmt": "2022-04-08"
+        },
+        "value": {
+          "raw": 2784483,
+          "fmt": "2.78M",
+          "longFmt": "2,784,483"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 43636,
+          "fmt": "43.64k",
+          "longFmt": "43,636"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANN JENNIFER K",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.20 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1649376000,
+          "fmt": "2022-04-08"
+        },
+        "value": {
+          "raw": 1623477,
+          "fmt": "1.62M",
+          "longFmt": "1,623,477"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 43636,
+          "fmt": "43.64k",
+          "longFmt": "43,636"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BRAUN HENRIQUE",
+        "transactionText": "Sale at price 59.91 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647561600,
+          "fmt": "2022-03-18"
+        },
+        "value": {
+          "raw": 565264,
+          "fmt": "565.26k",
+          "longFmt": "565,264"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 9436,
+          "fmt": "9.44k",
+          "longFmt": "9,436"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "DOUGLAS MONICA HOWARD",
+        "transactionText": "Sale at price 58.85 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647388800,
+          "fmt": "2022-03-16"
+        },
+        "value": {
+          "raw": 831071,
+          "fmt": "831.07k",
+          "longFmt": "831,071"
+        },
+        "filerRelation": "General Counsel",
+        "shares": {
+          "raw": 14122,
+          "fmt": "14.12k",
+          "longFmt": "14,122"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "DOUGLAS MONICA HOWARD",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1647388800,
+          "fmt": "2022-03-16"
+        },
+        "value": {
+          "raw": 644598,
+          "fmt": "644.6k",
+          "longFmt": "644,598"
+        },
+        "filerRelation": "General Counsel",
+        "shares": {
+          "raw": 17139,
+          "fmt": "17.14k",
+          "longFmt": "17,139"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MURPHY JOHN",
+        "transactionText": "Sale at price 62.29 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1646352000,
+          "fmt": "2022-03-04"
+        },
+        "value": {
+          "raw": 9597689,
+          "fmt": "9.6M",
+          "longFmt": "9,597,689"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 154080,
+          "fmt": "154.08k",
+          "longFmt": "154,080"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MURPHY JOHN",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1646352000,
+          "fmt": "2022-03-04"
+        },
+        "value": {
+          "raw": 3820950,
+          "fmt": "3.82M",
+          "longFmt": "3,820,950"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 101594,
+          "fmt": "101.59k",
+          "longFmt": "101,594"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANN JENNIFER K",
+        "transactionText": "Sale at price 62.90 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1646265600,
+          "fmt": "2022-03-03"
+        },
+        "value": {
+          "raw": 713097,
+          "fmt": "713.1k",
+          "longFmt": "713,097"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 11337,
+          "fmt": "11.34k",
+          "longFmt": "11,337"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANN JENNIFER K",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1646265600,
+          "fmt": "2022-03-03"
+        },
+        "value": {
+          "raw": 426385,
+          "fmt": "426.38k",
+          "longFmt": "426,385"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 11337,
+          "fmt": "11.34k",
+          "longFmt": "11,337"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SIMPSON BARRY",
+        "transactionText": "Sale at price 62.51 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1646179200,
+          "fmt": "2022-03-02"
+        },
+        "value": {
+          "raw": 2063574,
+          "fmt": "2.06M",
+          "longFmt": "2,063,574"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 33010,
+          "fmt": "33.01k",
+          "longFmt": "33,010"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RIVERA ALFREDO",
+        "transactionText": "Sale at price 62.60 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645747200,
+          "fmt": "2022-02-25"
+        },
+        "value": {
+          "raw": 1108514,
+          "fmt": "1.11M",
+          "longFmt": "1,108,514"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 17709,
+          "fmt": "17.71k",
+          "longFmt": "17,709"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RANDAZZA MARK",
+        "transactionText": "Sale at price 62.67 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645747200,
+          "fmt": "2022-02-25"
+        },
+        "value": {
+          "raw": 2421034,
+          "fmt": "2.42M",
+          "longFmt": "2,421,034"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 38633,
+          "fmt": "38.63k",
+          "longFmt": "38,633"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RANDAZZA MARK",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645747200,
+          "fmt": "2022-02-25"
+        },
+        "value": {
+          "raw": 1452987,
+          "fmt": "1.45M",
+          "longFmt": "1,452,987"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 38633,
+          "fmt": "38.63k",
+          "longFmt": "38,633"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH BRIAN JOHN",
+        "transactionText": "Sale at price 61.66 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645574400,
+          "fmt": "2022-02-23"
+        },
+        "value": {
+          "raw": 2977825,
+          "fmt": "2.98M",
+          "longFmt": "2,977,825"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 48292,
+          "fmt": "48.29k",
+          "longFmt": "48,292"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 18084,
+          "fmt": "18.08k",
+          "longFmt": "18,084"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUINCEY JAMES",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 208664,
+          "fmt": "208.66k",
+          "longFmt": "208,664"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH BRIAN JOHN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 83465,
+          "fmt": "83.47k",
+          "longFmt": "83,465"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RIVERA ALFREDO",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 27821,
+          "fmt": "27.82k",
+          "longFmt": "27,821"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MURPHY JOHN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 76510,
+          "fmt": "76.51k",
+          "longFmt": "76,510"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SIMPSON BARRY",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 27821,
+          "fmt": "27.82k",
+          "longFmt": "27,821"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANN JENNIFER K",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 31994,
+          "fmt": "31.99k",
+          "longFmt": "31,994"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANN JENNIFER K",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 31994,
+          "fmt": "31.99k",
+          "longFmt": "31,994"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RANDAZZA MARK",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 4106,
+          "fmt": "4.11k",
+          "longFmt": "4,106"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOUMETTIS NIKOLAOS",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 37559,
+          "fmt": "37.56k",
+          "longFmt": "37,559"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ARROYO MANUEL",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 45906,
+          "fmt": "45.91k",
+          "longFmt": "45,906"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 25040,
+          "fmt": "25.04k",
+          "longFmt": "25,040"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "CHANG LISA",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 23009,
+          "fmt": "23.01k",
+          "longFmt": "23,009"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "DOUGLAS MONICA HOWARD",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "General Counsel",
+        "shares": {
+          "raw": 1994,
+          "fmt": "1.99k",
+          "longFmt": "1,994"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOVELESS KATHY",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 2100,
+          "fmt": "2.1k",
+          "longFmt": "2,100"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BRAUN HENRIQUE",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1645056000,
+          "fmt": "2022-02-17"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 17054,
+          "fmt": "17.05k",
+          "longFmt": "17,054"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Sale at price 62.01 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644278400,
+          "fmt": "2022-02-08"
+        },
+        "value": {
+          "raw": 1575502,
+          "fmt": "1.58M",
+          "longFmt": "1,575,502"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 25406,
+          "fmt": "25.41k",
+          "longFmt": "25,406"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Conversion of Exercise of derivative security at price 34.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644278400,
+          "fmt": "2022-02-08"
+        },
+        "value": {
+          "raw": 872760,
+          "fmt": "872.76k",
+          "longFmt": "872,760"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 25406,
+          "fmt": "25.41k",
+          "longFmt": "25,406"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Sale at price 62.00 - 62.02 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644278400,
+          "fmt": "2022-02-08"
+        },
+        "value": {
+          "raw": 1660918,
+          "fmt": "1.66M",
+          "longFmt": "1,660,918"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 26785,
+          "fmt": "26.79k",
+          "longFmt": "26,785"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1644278400,
+          "fmt": "2022-02-08"
+        },
+        "value": {
+          "raw": 1128300,
+          "fmt": "1.13M",
+          "longFmt": "1,128,300"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 30000,
+          "fmt": "30k",
+          "longFmt": "30,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Sale at price 61.01 - 61.07 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642118400,
+          "fmt": "2022-01-14"
+        },
+        "value": {
+          "raw": 3540320,
+          "fmt": "3.54M",
+          "longFmt": "3,540,320"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 58000,
+          "fmt": "58k",
+          "longFmt": "58,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Conversion of Exercise of derivative security at price 34.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1642118400,
+          "fmt": "2022-01-14"
+        },
+        "value": {
+          "raw": 1992445,
+          "fmt": "1.99M",
+          "longFmt": "1,992,445"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 58000,
+          "fmt": "58k",
+          "longFmt": "58,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MURPHY JOHN",
+        "transactionText": "Sale at price 60.03 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641254400,
+          "fmt": "2022-01-04"
+        },
+        "value": {
+          "raw": 6957816,
+          "fmt": "6.96M",
+          "longFmt": "6,957,816"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 115896,
+          "fmt": "115.9k",
+          "longFmt": "115,896"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MURPHY JOHN",
+        "transactionText": "Conversion of Exercise of derivative security at price 34.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641254400,
+          "fmt": "2022-01-04"
+        },
+        "value": {
+          "raw": 3981317,
+          "fmt": "3.98M",
+          "longFmt": "3,981,317"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 115896,
+          "fmt": "115.9k",
+          "longFmt": "115,896"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANN JENNIFER K",
+        "transactionText": "Sale at price 59.90 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641254400,
+          "fmt": "2022-01-04"
+        },
+        "value": {
+          "raw": 679026,
+          "fmt": "679.03k",
+          "longFmt": "679,026"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 11336,
+          "fmt": "11.34k",
+          "longFmt": "11,336"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANN JENNIFER K",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641254400,
+          "fmt": "2022-01-04"
+        },
+        "value": {
+          "raw": 426347,
+          "fmt": "426.35k",
+          "longFmt": "426,347"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 11336,
+          "fmt": "11.34k",
+          "longFmt": "11,336"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Sale at price 60.02 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641254400,
+          "fmt": "2022-01-04"
+        },
+        "value": {
+          "raw": 1617496,
+          "fmt": "1.62M",
+          "longFmt": "1,617,496"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 26950,
+          "fmt": "26.95k",
+          "longFmt": "26,950"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641254400,
+          "fmt": "2022-01-04"
+        },
+        "value": {
+          "raw": 1128300,
+          "fmt": "1.13M",
+          "longFmt": "1,128,300"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 30000,
+          "fmt": "30k",
+          "longFmt": "30,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BRAUN HENRIQUE",
+        "transactionText": "Sale at price 60.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641254400,
+          "fmt": "2022-01-04"
+        },
+        "value": {
+          "raw": 1387159,
+          "fmt": "1.39M",
+          "longFmt": "1,387,159"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 23118,
+          "fmt": "23.12k",
+          "longFmt": "23,118"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BRAUN HENRIQUE",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1641254400,
+          "fmt": "2022-01-04"
+        },
+        "value": {
+          "raw": 964772,
+          "fmt": "964.77k",
+          "longFmt": "964,772"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 25652,
+          "fmt": "25.65k",
+          "longFmt": "25,652"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Sale at price 59.04 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1640736000,
+          "fmt": "2021-12-29"
+        },
+        "value": {
+          "raw": 1476110,
+          "fmt": "1.48M",
+          "longFmt": "1,476,110"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 25000,
+          "fmt": "25k",
+          "longFmt": "25,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Conversion of Exercise of derivative security at price 34.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1640736000,
+          "fmt": "2021-12-29"
+        },
+        "value": {
+          "raw": 858812,
+          "fmt": "858.81k",
+          "longFmt": "858,812"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 25000,
+          "fmt": "25k",
+          "longFmt": "25,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Sale at price 58.01 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1639440000,
+          "fmt": "2021-12-14"
+        },
+        "value": {
+          "raw": 1049488,
+          "fmt": "1.05M",
+          "longFmt": "1,049,488"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 18090,
+          "fmt": "18.09k",
+          "longFmt": "18,090"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1639440000,
+          "fmt": "2021-12-14"
+        },
+        "value": {
+          "raw": 752200,
+          "fmt": "752.2k",
+          "longFmt": "752,200"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 20000,
+          "fmt": "20k",
+          "longFmt": "20,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BRAUN HENRIQUE",
+        "transactionText": "Sale at price 57.50 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1639353600,
+          "fmt": "2021-12-13"
+        },
+        "value": {
+          "raw": 691265,
+          "fmt": "691.26k",
+          "longFmt": "691,265"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 12022,
+          "fmt": "12.02k",
+          "longFmt": "12,022"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BRAUN HENRIQUE",
+        "transactionText": "Conversion of Exercise of derivative security at price 34.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1639353600,
+          "fmt": "2021-12-13"
+        },
+        "value": {
+          "raw": 412986,
+          "fmt": "412.99k",
+          "longFmt": "412,986"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 12022,
+          "fmt": "12.02k",
+          "longFmt": "12,022"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RIVERA ALFREDO",
+        "transactionText": "Sale at price 56.36 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1637020800,
+          "fmt": "2021-11-16"
+        },
+        "value": {
+          "raw": 448851,
+          "fmt": "448.85k",
+          "longFmt": "448,851"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 7964,
+          "fmt": "7.96k",
+          "longFmt": "7,964"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RIVERA ALFREDO",
+        "transactionText": "Conversion of Exercise of derivative security at price 34.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1637020800,
+          "fmt": "2021-11-16"
+        },
+        "value": {
+          "raw": 273583,
+          "fmt": "273.58k",
+          "longFmt": "273,583"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 7964,
+          "fmt": "7.96k",
+          "longFmt": "7,964"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RIVERA ALFREDO",
+        "transactionText": "Sale at price 56.36 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1637020800,
+          "fmt": "2021-11-16"
+        },
+        "value": {
+          "raw": 448851,
+          "fmt": "448.85k",
+          "longFmt": "448,851"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 7964,
+          "fmt": "7.96k",
+          "longFmt": "7,964"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RIVERA ALFREDO",
+        "transactionText": "Conversion of Exercise of derivative security at price 34.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1637020800,
+          "fmt": "2021-11-16"
+        },
+        "value": {
+          "raw": 273583,
+          "fmt": "273.58k",
+          "longFmt": "273,583"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 7964,
+          "fmt": "7.96k",
+          "longFmt": "7,964"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH BRIAN JOHN",
+        "transactionText": "Sale at price 56.64 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1636070400,
+          "fmt": "2021-11-05"
+        },
+        "value": {
+          "raw": 2095732,
+          "fmt": "2.1M",
+          "longFmt": "2,095,732"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 37000,
+          "fmt": "37k",
+          "longFmt": "37,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Sale at price 56.82 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1636070400,
+          "fmt": "2021-11-05"
+        },
+        "value": {
+          "raw": 1034541,
+          "fmt": "1.03M",
+          "longFmt": "1,034,541"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 18206,
+          "fmt": "18.21k",
+          "longFmt": "18,206"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1636070400,
+          "fmt": "2021-11-05"
+        },
+        "value": {
+          "raw": 752200,
+          "fmt": "752.2k",
+          "longFmt": "752,200"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 20000,
+          "fmt": "20k",
+          "longFmt": "20,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH BRIAN JOHN",
+        "transactionText": "Sale at price 55.65 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1630022400,
+          "fmt": "2021-08-27"
+        },
+        "value": {
+          "raw": 556505,
+          "fmt": "556.5k",
+          "longFmt": "556,505"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 10000,
+          "fmt": "10k",
+          "longFmt": "10,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Sale at price 57.08 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1628553600,
+          "fmt": "2021-08-10"
+        },
+        "value": {
+          "raw": 378187,
+          "fmt": "378.19k",
+          "longFmt": "378,187"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 6625,
+          "fmt": "6.62k",
+          "longFmt": "6,625"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "DOUGLAS MONICA HOWARD",
+        "transactionText": "Sale at price 56.62 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1628467200,
+          "fmt": "2021-08-09"
+        },
+        "value": {
+          "raw": 684479,
+          "fmt": "684.48k",
+          "longFmt": "684,479"
+        },
+        "filerRelation": "General Counsel",
+        "shares": {
+          "raw": 12089,
+          "fmt": "12.09k",
+          "longFmt": "12,089"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "DOUGLAS MONICA HOWARD",
+        "transactionText": "Conversion of Exercise of derivative security at price 34.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1628467200,
+          "fmt": "2021-08-09"
+        },
+        "value": {
+          "raw": 549159,
+          "fmt": "549.16k",
+          "longFmt": "549,159"
+        },
+        "filerRelation": "General Counsel",
+        "shares": {
+          "raw": 15986,
+          "fmt": "15.99k",
+          "longFmt": "15,986"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1628208000,
+          "fmt": "2021-08-06"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 133,
+          "fmt": "133",
+          "longFmt": "133"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RANDAZZA MARK",
+        "transactionText": "Sale at price 57.01 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1627257600,
+          "fmt": "2021-07-26"
+        },
+        "value": {
+          "raw": 1804503,
+          "fmt": "1.8M",
+          "longFmt": "1,804,503"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 31652,
+          "fmt": "31.65k",
+          "longFmt": "31,652"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RANDAZZA MARK",
+        "transactionText": "Conversion of Exercise of derivative security at price 34.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1627257600,
+          "fmt": "2021-07-26"
+        },
+        "value": {
+          "raw": 1087325,
+          "fmt": "1.09M",
+          "longFmt": "1,087,325"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 31652,
+          "fmt": "31.65k",
+          "longFmt": "31,652"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Sale at price 56.50 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1626393600,
+          "fmt": "2021-07-16"
+        },
+        "value": {
+          "raw": 1124972,
+          "fmt": "1.12M",
+          "longFmt": "1,124,972"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 19911,
+          "fmt": "19.91k",
+          "longFmt": "19,911"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Conversion of Exercise of derivative security at price 37.61 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1626393600,
+          "fmt": "2021-07-16"
+        },
+        "value": {
+          "raw": 824110,
+          "fmt": "824.11k",
+          "longFmt": "824,110"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 21912,
+          "fmt": "21.91k",
+          "longFmt": "21,912"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOUMETTIS NIKOLAOS",
+        "transactionText": "Sale at price 55.89 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1622764800,
+          "fmt": "2021-06-04"
+        },
+        "value": {
+          "raw": 3095748,
+          "fmt": "3.1M",
+          "longFmt": "3,095,748"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 55392,
+          "fmt": "55.39k",
+          "longFmt": "55,392"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOUMETTIS NIKOLAOS",
+        "transactionText": "Conversion of Exercise of derivative security at price 34.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1622764800,
+          "fmt": "2021-06-04"
+        },
+        "value": {
+          "raw": 1902854,
+          "fmt": "1.9M",
+          "longFmt": "1,902,854"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 55392,
+          "fmt": "55.39k",
+          "longFmt": "55,392"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1620691200,
+          "fmt": "2021-05-11"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 2800,
+          "fmt": "2.8k",
+          "longFmt": "2,800"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUINCEY JAMES",
+        "transactionText": "Sale at price 54.48 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1619136000,
+          "fmt": "2021-04-23"
+        },
+        "value": {
+          "raw": 5993064,
+          "fmt": "5.99M",
+          "longFmt": "5,993,064"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 110000,
+          "fmt": "110k",
+          "longFmt": "110,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOUMETTIS NIKOLAOS",
+        "transactionText": "Sale at price 54.81 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1619049600,
+          "fmt": "2021-04-22"
+        },
+        "value": {
+          "raw": 1644249,
+          "fmt": "1.64M",
+          "longFmt": "1,644,249"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 30000,
+          "fmt": "30k",
+          "longFmt": "30,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOUMETTIS NIKOLAOS",
+        "transactionText": "Conversion of Exercise of derivative security at price 34.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1619049600,
+          "fmt": "2021-04-22"
+        },
+        "value": {
+          "raw": 1030575,
+          "fmt": "1.03M",
+          "longFmt": "1,030,575"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 30000,
+          "fmt": "30k",
+          "longFmt": "30,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOVELESS KATHY",
+        "transactionText": "Sale at price 54.30 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1618963200,
+          "fmt": "2021-04-21"
+        },
+        "value": {
+          "raw": 394381,
+          "fmt": "394.38k",
+          "longFmt": "394,381"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 7263,
+          "fmt": "7.26k",
+          "longFmt": "7,263"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOUMETTIS NIKOLAOS",
+        "transactionText": "Sale at price 52.80 - 53.80 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1616976000,
+          "fmt": "2021-03-29"
+        },
+        "value": {
+          "raw": 3198000,
+          "fmt": "3.2M",
+          "longFmt": "3,198,000"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 60000,
+          "fmt": "60k",
+          "longFmt": "60,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOUMETTIS NIKOLAOS",
+        "transactionText": "Conversion of Exercise of derivative security at price 34.35 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1616976000,
+          "fmt": "2021-03-29"
+        },
+        "value": {
+          "raw": 2061150,
+          "fmt": "2.06M",
+          "longFmt": "2,061,150"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 60000,
+          "fmt": "60k",
+          "longFmt": "60,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOVELESS KATHY",
+        "transactionText": "Sale at price 50.46 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1616112000,
+          "fmt": "2021-03-19"
+        },
+        "value": {
+          "raw": 25280,
+          "fmt": "25.28k",
+          "longFmt": "25,280"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 501,
+          "fmt": "501",
+          "longFmt": "501"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RIVERA ALFREDO",
+        "transactionText": "Sale at price 51.15 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1615248000,
+          "fmt": "2021-03-09"
+        },
+        "value": {
+          "raw": 1022986,
+          "fmt": "1.02M",
+          "longFmt": "1,022,986"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 20000,
+          "fmt": "20k",
+          "longFmt": "20,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 9212,
+          "fmt": "9.21k",
+          "longFmt": "9,212"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUINCEY JAMES",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Executive Officer",
+        "shares": {
+          "raw": 95959,
+          "fmt": "95.96k",
+          "longFmt": "95,959"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SMITH BRIAN JOHN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "President",
+        "shares": {
+          "raw": 27866,
+          "fmt": "27.87k",
+          "longFmt": "27,866"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RIVERA ALFREDO",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 14854,
+          "fmt": "14.85k",
+          "longFmt": "14,854"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MURPHY JOHN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 32933,
+          "fmt": "32.93k",
+          "longFmt": "32,933"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "SIMPSON BARRY",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 11668,
+          "fmt": "11.67k",
+          "longFmt": "11,668"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LONG ROBERT EDWARD",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 5220,
+          "fmt": "5.22k",
+          "longFmt": "5,220"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MANN JENNIFER K",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 15967,
+          "fmt": "15.97k",
+          "longFmt": "15,967"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "RANDAZZA MARK",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 2163,
+          "fmt": "2.16k",
+          "longFmt": "2,163"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOUMETTIS NIKOLAOS",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 11975,
+          "fmt": "11.97k",
+          "longFmt": "11,975"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "ARROYO MANUEL",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 12436,
+          "fmt": "12.44k",
+          "longFmt": "12,436"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Chief Technology Officer",
+        "shares": {
+          "raw": 11975,
+          "fmt": "11.97k",
+          "longFmt": "11,975"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LOVELESS KATHY",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 717,
+          "fmt": "717",
+          "longFmt": "717"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "BRAUN HENRIQUE",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613606400,
+          "fmt": "2021-02-18"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Divisional Officer",
+        "shares": {
+          "raw": 8291,
+          "fmt": "8.29k",
+          "longFmt": "8,291"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Sale at price 50.62 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613433600,
+          "fmt": "2021-02-16"
+        },
+        "value": {
+          "raw": 2128267,
+          "fmt": "2.13M",
+          "longFmt": "2,128,267"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 42044,
+          "fmt": "42.04k",
+          "longFmt": "42,044"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Conversion of Exercise of derivative security at price 32.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1613433600,
+          "fmt": "2021-02-16"
+        },
+        "value": {
+          "raw": 1345303,
+          "fmt": "1.35M",
+          "longFmt": "1,345,303"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 42044,
+          "fmt": "42.04k",
+          "longFmt": "42,044"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Sale at price 54.26 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1609718400,
+          "fmt": "2021-01-04"
+        },
+        "value": {
+          "raw": 114055,
+          "fmt": "114.06k",
+          "longFmt": "114,055"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 2102,
+          "fmt": "2.1k",
+          "longFmt": "2,102"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "QUAN NANCY W",
+        "transactionText": "Conversion of Exercise of derivative security at price 32.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1609718400,
+          "fmt": "2021-01-04"
+        },
+        "value": {
+          "raw": 67259,
+          "fmt": "67.26k",
+          "longFmt": "67,259"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 2102,
+          "fmt": "2.1k",
+          "longFmt": "2,102"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "KOUMETTIS NIKOLAOS",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1607385600,
+          "fmt": "2020-12-08"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "Other Executive",
+        "shares": {
+          "raw": 2880,
+          "fmt": "2.88k",
+          "longFmt": "2,880"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "WEINBERG DAVID B",
+        "transactionText": "Sale at price 52.65 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1604880000,
+          "fmt": "2020-11-09"
+        },
+        "value": {
+          "raw": 5265150,
+          "fmt": "5.27M",
+          "longFmt": "5,265,150"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "WEINBERG DAVID B",
+        "transactionText": "Sale at price 49.75 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1604620800,
+          "fmt": "2020-11-06"
+        },
+        "value": {
+          "raw": 4975053,
+          "fmt": "4.98M",
+          "longFmt": "4,975,053"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "WEINBERG DAVID B",
+        "transactionText": "Sale at price 49.55 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1604361600,
+          "fmt": "2020-11-03"
+        },
+        "value": {
+          "raw": 4954970,
+          "fmt": "4.95M",
+          "longFmt": "4,954,970"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MURPHY JOHN",
+        "transactionText": "Sale at price 48.78 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1604275200,
+          "fmt": "2020-11-02"
+        },
+        "value": {
+          "raw": 5482681,
+          "fmt": "5.48M",
+          "longFmt": "5,482,681"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 112400,
+          "fmt": "112.4k",
+          "longFmt": "112,400"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "MURPHY JOHN",
+        "transactionText": "Conversion of Exercise of derivative security at price 32.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1604275200,
+          "fmt": "2020-11-02"
+        },
+        "value": {
+          "raw": 3596519,
+          "fmt": "3.6M",
+          "longFmt": "3,596,519"
+        },
+        "filerRelation": "Chief Financial Officer",
+        "shares": {
+          "raw": 112400,
+          "fmt": "112.4k",
+          "longFmt": "112,400"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "WEINBERG DAVID B",
+        "transactionText": "Sale at price 50.12 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1603756800,
+          "fmt": "2020-10-27"
+        },
+        "value": {
+          "raw": 10023080,
+          "fmt": "10.02M",
+          "longFmt": "10,023,080"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 200000,
+          "fmt": "200k",
+          "longFmt": "200,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "GAYTON BRADLEY MICHAEL",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1602633600,
+          "fmt": "2020-10-14"
+        },
+        "value": {
+          "raw": 0,
+          "fmt": null,
+          "longFmt": "0"
+        },
+        "filerRelation": "General Counsel",
+        "shares": {
+          "raw": 76507,
+          "fmt": "76.51k",
+          "longFmt": "76,507"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LONG ROBERT EDWARD",
+        "transactionText": "Sale at price 48.21 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1597190400,
+          "fmt": "2020-08-12"
+        },
+        "value": {
+          "raw": 1809529,
+          "fmt": "1.81M",
+          "longFmt": "1,809,529"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 37534,
+          "fmt": "37.53k",
+          "longFmt": "37,534"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "LONG ROBERT EDWARD",
+        "transactionText": "Conversion of Exercise of derivative security at price 32.00 per share.",
+        "moneyText": "",
+        "ownership": "D",
+        "startDate": {
+          "raw": 1597190400,
+          "fmt": "2020-08-12"
+        },
+        "value": {
+          "raw": 1200994,
+          "fmt": "1.2M",
+          "longFmt": "1,200,994"
+        },
+        "filerRelation": "Officer",
+        "shares": {
+          "raw": 37534,
+          "fmt": "37.53k",
+          "longFmt": "37,534"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "WEINBERG DAVID B",
+        "transactionText": "Sale at price 48.02 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1597017600,
+          "fmt": "2020-08-10"
+        },
+        "value": {
+          "raw": 4802000,
+          "fmt": "4.8M",
+          "longFmt": "4,802,000"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      },
+      {
+        "filerName": "WEINBERG DAVID B",
+        "transactionText": "Sale at price 48.06 per share.",
+        "moneyText": "",
+        "ownership": "I",
+        "startDate": {
+          "raw": 1596067200,
+          "fmt": "2020-07-30"
+        },
+        "value": {
+          "raw": 4805840,
+          "fmt": "4.81M",
+          "longFmt": "4,805,840"
+        },
+        "filerRelation": "Director",
+        "shares": {
+          "raw": 100000,
+          "fmt": "100k",
+          "longFmt": "100,000"
+        },
+        "filerUrl": "",
+        "maxAge": 1
+      }
+    ],
+    "maxAge": 1
+  },
+  "insiderHolders": {
+    "holders": [
+      {
+        "maxAge": 1,
+        "name": "ARROYO MANUEL",
+        "relation": "Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "positionDirect": {
+          "raw": 115314,
+          "fmt": "115.31k",
+          "longFmt": "115,314"
+        },
+        "positionDirectDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "KOUMETTIS NIKOLAOS",
+        "relation": "Divisional Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "positionDirect": {
+          "raw": 184563,
+          "fmt": "184.56k",
+          "longFmt": "184,563"
+        },
+        "positionDirectDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "MANN JENNIFER K",
+        "relation": "Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "positionDirect": {
+          "raw": 121703,
+          "fmt": "121.7k",
+          "longFmt": "121,703"
+        },
+        "positionDirectDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "MURPHY JOHN",
+        "relation": "Chief Executive Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "positionDirect": {
+          "raw": 231674,
+          "fmt": "231.67k",
+          "longFmt": "231,674"
+        },
+        "positionDirectDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "PEREZ BEATRIZ R",
+        "relation": "Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "positionDirect": {
+          "raw": 164944,
+          "fmt": "164.94k",
+          "longFmt": "164,944"
+        },
+        "positionDirectDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "PIETRACCI BRUNO",
+        "relation": "Divisional Officer",
+        "url": "",
+        "transactionDescription": "Stock Gift",
+        "latestTransDate": {
+          "raw": 1677715200,
+          "fmt": "2023-03-02"
+        },
+        "positionDirect": {
+          "raw": 44608,
+          "fmt": "44.61k",
+          "longFmt": "44,608"
+        },
+        "positionDirectDate": {
+          "raw": 1677715200,
+          "fmt": "2023-03-02"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "QUAN NANCY W",
+        "relation": "Chief Technology Officer",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1677628800,
+          "fmt": "2023-03-01"
+        },
+        "positionDirect": {
+          "raw": 224488,
+          "fmt": "224.49k",
+          "longFmt": "224,488"
+        },
+        "positionDirectDate": {
+          "raw": 1677628800,
+          "fmt": "2023-03-01"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "QUINCEY JAMES",
+        "relation": "Chief Executive Officer",
+        "url": "",
+        "transactionDescription": "Sale",
+        "latestTransDate": {
+          "raw": 1678147200,
+          "fmt": "2023-03-07"
+        },
+        "positionDirect": {
+          "raw": 643445,
+          "fmt": "643.45k",
+          "longFmt": "643,445"
+        },
+        "positionDirectDate": {
+          "raw": 1678147200,
+          "fmt": "2023-03-07"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "RANDAZZA MARK",
+        "relation": "Officer",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1677456000,
+          "fmt": "2023-02-27"
+        },
+        "positionDirect": {
+          "raw": 65678,
+          "fmt": "65.68k",
+          "longFmt": "65,678"
+        },
+        "positionDirectDate": {
+          "raw": 1677456000,
+          "fmt": "2023-02-27"
+        }
+      },
+      {
+        "maxAge": 1,
+        "name": "SMITH BRIAN JOHN",
+        "relation": "Other Executive",
+        "url": "",
+        "transactionDescription": "Stock Award(Grant)",
+        "latestTransDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        },
+        "positionDirect": {
+          "raw": 261968,
+          "fmt": "261.97k",
+          "longFmt": "261,968"
+        },
+        "positionDirectDate": {
+          "raw": 1676505600,
+          "fmt": "2023-02-16"
+        }
+      }
+    ],
+    "maxAge": 1
+  },
+  "netSharePurchaseActivity": {
+    "period": "6m",
+    "netPercentInsiderShares": {
+      "raw": 0.102,
+      "fmt": "10.20%"
+    },
+    "netInfoCount": {
+      "raw": 31,
+      "fmt": "31",
+      "longFmt": "31"
+    },
+    "totalInsiderShares": {
+      "raw": 28859034,
+      "fmt": "28.86M",
+      "longFmt": "28,859,034"
+    },
+    "buyInfoShares": {
+      "raw": 3112033,
+      "fmt": "3.11M",
+      "longFmt": "3,112,033"
+    },
+    "buyPercentInsiderShares": {
+      "raw": 0.118999995,
+      "fmt": "11.90%"
+    },
+    "sellInfoCount": {
+      "raw": 7,
+      "fmt": "7",
+      "longFmt": "7"
+    },
+    "sellInfoShares": {
+      "raw": 432282,
+      "fmt": "432.28k",
+      "longFmt": "432,282"
+    },
+    "sellPercentInsiderShares": {
+      "raw": 0.017,
+      "fmt": "1.70%"
+    },
+    "maxAge": 1,
+    "buyInfoCount": {
+      "raw": 24,
+      "fmt": "24",
+      "longFmt": "24"
+    },
+    "netInfoShares": {
+      "raw": 2679751,
+      "fmt": "2.68M",
+      "longFmt": "2,679,751"
+    }
+  },
+  "majorHoldersBreakdown": {
+    "maxAge": 1,
+    "insidersPercentHeld": {
+      "raw": 0.00667,
+      "fmt": "0.67%"
+    },
+    "institutionsPercentHeld": {
+      "raw": 0.72058,
+      "fmt": "72.06%"
+    },
+    "institutionsFloatPercentHeld": {
+      "raw": 0.72542,
+      "fmt": "72.54%"
+    },
+    "institutionsCount": {
+      "raw": 3656,
+      "fmt": "3.66k",
+      "longFmt": "3,656"
+    }
+  },
+  "financialData": {
+    "ebitdaMargins": {
+      "raw": 0.31416,
+      "fmt": "31.42%"
+    },
+    "profitMargins": {
+      "raw": 0.22188999,
+      "fmt": "22.19%"
+    },
+    "grossMargins": {
+      "raw": 0.58143,
+      "fmt": "58.14%"
+    },
+    "operatingCashflow": {
+      "raw": 11018000384,
+      "fmt": "11.02B",
+      "longFmt": "11,018,000,384"
+    },
+    "revenueGrowth": {
+      "raw": 0.07,
+      "fmt": "7.00%"
+    },
+    "operatingMargins": {
+      "raw": 0.28486001,
+      "fmt": "28.49%"
+    },
+    "ebitda": {
+      "raw": 13509999616,
+      "fmt": "13.51B",
+      "longFmt": "13,509,999,616"
+    },
+    "targetLowPrice": {
+      "raw": 62,
+      "fmt": "62.00"
+    },
+    "recommendationKey": "buy",
+    "grossProfits": {
+      "raw": 25004000000,
+      "fmt": "25B",
+      "longFmt": "25,004,000,000"
+    },
+    "freeCashflow": {
+      "raw": 7811999744,
+      "fmt": "7.81B",
+      "longFmt": "7,811,999,744"
+    },
+    "targetMedianPrice": {
+      "raw": 69,
+      "fmt": "69.00"
+    },
+    "currentPrice": {
+      "raw": 59.77,
+      "fmt": "59.77"
+    },
+    "earningsGrowth": {
+      "raw": -0.165,
+      "fmt": "-16.50%"
+    },
+    "currentRatio": {
+      "raw": 1.145,
+      "fmt": "1.14"
+    },
+    "returnOnAssets": {
+      "raw": 0.081829995,
+      "fmt": "8.18%"
+    },
+    "numberOfAnalystOpinions": {
+      "raw": 24,
+      "fmt": "24",
+      "longFmt": "24"
+    },
+    "targetMeanPrice": {
+      "raw": 68.64,
+      "fmt": "68.64"
+    },
+    "debtToEquity": {
+      "raw": 163.707,
+      "fmt": "163.71"
+    },
+    "returnOnEquity": {
+      "raw": 0.37765998,
+      "fmt": "37.77%"
+    },
+    "targetHighPrice": {
+      "raw": 77,
+      "fmt": "77.00"
+    },
+    "totalCash": {
+      "raw": 11630999552,
+      "fmt": "11.63B",
+      "longFmt": "11,630,999,552"
+    },
+    "totalDebt": {
+      "raw": 42278998016,
+      "fmt": "42.28B",
+      "longFmt": "42,278,998,016"
+    },
+    "totalRevenue": {
+      "raw": 43003998208,
+      "fmt": "43B",
+      "longFmt": "43,003,998,208"
+    },
+    "totalCashPerShare": {
+      "raw": 2.688,
+      "fmt": "2.69"
+    },
+    "financialCurrency": "USD",
+    "maxAge": 86400,
+    "revenuePerShare": {
+      "raw": 9.936,
+      "fmt": "9.94"
+    },
+    "quickRatio": {
+      "raw": 0.766,
+      "fmt": "0.77"
+    },
+    "recommendationMean": {
+      "raw": 2,
+      "fmt": "2.00"
+    }
+  },
+  "quoteType": {
+    "exchange": "NYQ",
+    "shortName": "Coca-Cola Company (The)",
+    "longName": "The Coca-Cola Company",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-14400000",
+    "quoteType": "EQUITY",
+    "symbol": "KO",
+    "messageBoardId": "finmb_26642",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "maxAge": 1,
+    "ownershipList": [
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Berkshire Hathaway, Inc",
+        "pctHeld": {
+          "raw": 0.0925,
+          "fmt": "9.25%"
+        },
+        "position": {
+          "raw": 400000000,
+          "fmt": "400M",
+          "longFmt": "400,000,000"
+        },
+        "value": {
+          "raw": 23908000183,
+          "fmt": "23.91B",
+          "longFmt": "23,908,000,183"
+        },
+        "pctChange": {
+          "raw": 0,
+          "fmt": "0.00%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Vanguard Group, Inc. (The)",
+        "pctHeld": {
+          "raw": 0.0851,
+          "fmt": "8.51%"
+        },
+        "position": {
+          "raw": 368192362,
+          "fmt": "368.19M",
+          "longFmt": "368,192,362"
+        },
+        "value": {
+          "raw": 22006857645,
+          "fmt": "22.01B",
+          "longFmt": "22,006,857,645"
+        },
+        "pctChange": {
+          "raw": 0.0136,
+          "fmt": "1.36%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Blackrock Inc.",
+        "pctHeld": {
+          "raw": 0.0719,
+          "fmt": "7.19%"
+        },
+        "position": {
+          "raw": 310964019,
+          "fmt": "310.96M",
+          "longFmt": "310,964,019"
+        },
+        "value": {
+          "raw": 18586319557,
+          "fmt": "18.59B",
+          "longFmt": "18,586,319,557"
+        },
+        "pctChange": {
+          "raw": 0.0298,
+          "fmt": "2.98%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "State Street Corporation",
+        "pctHeld": {
+          "raw": 0.0401,
+          "fmt": "4.01%"
+        },
+        "position": {
+          "raw": 173581882,
+          "fmt": "173.58M",
+          "longFmt": "173,581,882"
+        },
+        "value": {
+          "raw": 10374989166,
+          "fmt": "10.37B",
+          "longFmt": "10,374,989,166"
+        },
+        "pctChange": {
+          "raw": 0.0117,
+          "fmt": "1.17%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "FMR, LLC",
+        "pctHeld": {
+          "raw": 0.020399999,
+          "fmt": "2.04%"
+        },
+        "position": {
+          "raw": 88419411,
+          "fmt": "88.42M",
+          "longFmt": "88,419,411"
+        },
+        "value": {
+          "raw": 5284828235,
+          "fmt": "5.28B",
+          "longFmt": "5,284,828,235"
+        },
+        "pctChange": {
+          "raw": -0.0708,
+          "fmt": "-7.08%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "JP Morgan Chase & Company",
+        "pctHeld": {
+          "raw": 0.0186,
+          "fmt": "1.86%"
+        },
+        "position": {
+          "raw": 80402895,
+          "fmt": "80.4M",
+          "longFmt": "80,402,895"
+        },
+        "value": {
+          "raw": 4805681070,
+          "fmt": "4.81B",
+          "longFmt": "4,805,681,070"
+        },
+        "pctChange": {
+          "raw": 0.015700001,
+          "fmt": "1.57%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Morgan Stanley",
+        "pctHeld": {
+          "raw": 0.0183,
+          "fmt": "1.83%"
+        },
+        "position": {
+          "raw": 79101856,
+          "fmt": "79.1M",
+          "longFmt": "79,101,856"
+        },
+        "value": {
+          "raw": 4727917969,
+          "fmt": "4.73B",
+          "longFmt": "4,727,917,969"
+        },
+        "pctChange": {
+          "raw": 0.1568,
+          "fmt": "15.68%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Geode Capital Management, LLC",
+        "pctHeld": {
+          "raw": 0.0175,
+          "fmt": "1.75%"
+        },
+        "position": {
+          "raw": 75894046,
+          "fmt": "75.89M",
+          "longFmt": "75,894,046"
+        },
+        "value": {
+          "raw": 4536187164,
+          "fmt": "4.54B",
+          "longFmt": "4,536,187,164"
+        },
+        "pctChange": {
+          "raw": 0.0058999998,
+          "fmt": "0.59%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Wellington Management Group, LLP",
+        "pctHeld": {
+          "raw": 0.0139,
+          "fmt": "1.39%"
+        },
+        "position": {
+          "raw": 60024533,
+          "fmt": "60.02M",
+          "longFmt": "60,024,533"
+        },
+        "value": {
+          "raw": 3587666364,
+          "fmt": "3.59B",
+          "longFmt": "3,587,666,364"
+        },
+        "pctChange": {
+          "raw": -0.0836,
+          "fmt": "-8.36%"
+        }
+      },
+      {
+        "maxAge": 1,
+        "reportDate": {
+          "raw": 1672444800,
+          "fmt": "2022-12-31"
+        },
+        "organization": "Charles Schwab Investment Management, Inc.",
+        "pctHeld": {
+          "raw": 0.0134000005,
+          "fmt": "1.34%"
+        },
+        "position": {
+          "raw": 58090088,
+          "fmt": "58.09M",
+          "longFmt": "58,090,088"
+        },
+        "value": {
+          "raw": 3472044586,
+          "fmt": "3.47B",
+          "longFmt": "3,472,044,586"
+        },
+        "pctChange": {
+          "raw": 0.0769,
+          "fmt": "7.69%"
+        }
+      }
+    ]
+  },
+  "calendarEvents": {
+    "maxAge": 1,
+    "earnings": {
+      "earningsDate": [
+        {
+          "raw": 1682339400,
+          "fmt": "2023-04-24"
+        },
+        {
+          "raw": 1682685000,
+          "fmt": "2023-04-28"
+        }
+      ],
+      "earningsAverage": {
+        "raw": 0.65,
+        "fmt": "0.65"
+      },
+      "earningsLow": {
+        "raw": 0.62,
+        "fmt": "0.62"
+      },
+      "earningsHigh": {
+        "raw": 0.68,
+        "fmt": "0.68"
+      },
+      "revenueAverage": {
+        "raw": 10837700000,
+        "fmt": "10.84B",
+        "longFmt": "10,837,700,000"
+      },
+      "revenueLow": {
+        "raw": 10436000000,
+        "fmt": "10.44B",
+        "longFmt": "10,436,000,000"
+      },
+      "revenueHigh": {
+        "raw": 11190000000,
+        "fmt": "11.19B",
+        "longFmt": "11,190,000,000"
+      }
+    },
+    "exDividendDate": {
+      "raw": 1678924800,
+      "fmt": "2023-03-16"
+    },
+    "dividendDate": {
+      "raw": 1680480000,
+      "fmt": "2023-04-03"
+    }
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 59.97,
+      "fmt": "59.97"
+    },
+    "regularMarketOpen": {
+      "raw": 60.09,
+      "fmt": "60.09"
+    },
+    "twoHundredDayAverage": {
+      "raw": 61.15345,
+      "fmt": "61.15"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0.029348006,
+      "fmt": "2.93%"
+    },
+    "payoutRatio": {
+      "raw": 0.80370003,
+      "fmt": "80.37%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 60.18,
+      "fmt": "60.18"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 15613110,
+      "fmt": "15.61M",
+      "longFmt": "15,613,110"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 59.97,
+      "fmt": "59.97"
+    },
+    "fiftyDayAverage": {
+      "raw": 60.4658,
+      "fmt": "60.47"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 1.76,
+      "fmt": "1.76"
+    },
+    "open": {
+      "raw": 60.09,
+      "fmt": "60.09"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 15613110,
+      "fmt": "15.61M",
+      "longFmt": "15,613,110"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {
+      "raw": 1.84,
+      "fmt": "1.84"
+    },
+    "exDividendDate": {
+      "raw": 1678924800,
+      "fmt": "2023-03-16"
+    },
+    "beta": {
+      "raw": 0.539459,
+      "fmt": "0.54"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 59.7,
+      "fmt": "59.70"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "trailingPE": {
+      "raw": 27.045248,
+      "fmt": "27.05"
+    },
+    "regularMarketVolume": {
+      "raw": 4716544,
+      "fmt": "4.72M",
+      "longFmt": "4,716,544"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 258606252032,
+      "fmt": "258.61B",
+      "longFmt": "258,606,252,032"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 13103059,
+      "fmt": "13.1M",
+      "longFmt": "13,103,059"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 6.01354,
+      "fmt": "6.01"
+    },
+    "dayLow": {
+      "raw": 59.7,
+      "fmt": "59.70"
+    },
+    "ask": {
+      "raw": 59.98,
+      "fmt": "59.98"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 900,
+      "fmt": "900",
+      "longFmt": "900"
+    },
+    "volume": {
+      "raw": 4716544,
+      "fmt": "4.72M",
+      "longFmt": "4,716,544"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 67.2,
+      "fmt": "67.20"
+    },
+    "forwardPE": {
+      "raw": 21.34643,
+      "fmt": "21.35"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {
+      "raw": 3.1,
+      "fmt": "3.10"
+    },
+    "fiftyTwoWeekLow": {
+      "raw": 54.02,
+      "fmt": "54.02"
+    },
+    "bid": {
+      "raw": 59.97,
+      "fmt": "59.97"
+    },
+    "tradeable": false,
+    "dividendYield": {
+      "raw": 0.0307,
+      "fmt": "3.07%"
+    },
+    "bidSize": {
+      "raw": 1100,
+      "fmt": "1.1k",
+      "longFmt": "1,100"
+    },
+    "dayHigh": {
+      "raw": 60.18,
+      "fmt": "60.18"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "KO",
+  "esgScores": {
+    "palmOil": false,
+    "peerSocialPerformance": {
+      "min": 4.32,
+      "avg": 10.916022727272722,
+      "max": 20.23
+    },
+    "controversialWeapons": false,
+    "ratingMonth": 8,
+    "gambling": false,
+    "socialScore": {
+      "raw": 9.72,
+      "fmt": "9.7"
+    },
+    "nuclear": false,
+    "furLeather": false,
+    "alcoholic": false,
+    "gmo": false,
+    "catholic": false,
+    "socialPercentile": null,
+    "peerGovernancePerformance": {
+      "min": 3.88,
+      "avg": 6.332840909090908,
+      "max": 11.73
+    },
+    "peerCount": 88,
+    "relatedControversy": [
+      "Operations Incidents",
+      "Employee Incidents",
+      "Society & Community Incidents",
+      "Business Ethics Incidents"
+    ],
+    "governanceScore": {
+      "raw": 4.95,
+      "fmt": "4.9"
+    },
+    "environmentPercentile": null,
+    "animalTesting": true,
+    "peerEsgScorePerformance": {
+      "min": 13.55,
+      "avg": 27.763636363636376,
+      "max": 48.96
+    },
+    "tobacco": false,
+    "totalEsg": {
+      "raw": 22.56,
+      "fmt": "22.6"
+    },
+    "highestControversy": 3,
+    "esgPerformance": "AVG_PERF",
+    "coal": false,
+    "peerHighestControversyPerformance": {
+      "min": 0,
+      "avg": 2.102272727272727,
+      "max": 4
+    },
+    "pesticides": false,
+    "adult": false,
+    "ratingYear": 2022,
+    "maxAge": 86400,
+    "percentile": {
+      "raw": 34.34,
+      "fmt": "34"
+    },
+    "peerGroup": "Food Products",
+    "smallArms": false,
+    "peerEnvironmentPerformance": {
+      "min": 3.57,
+      "avg": 10.513977272727272,
+      "max": 22.18
+    },
+    "environmentScore": {
+      "raw": 7.88,
+      "fmt": "7.9"
+    },
+    "governancePercentile": null,
+    "militaryContract": false
+  },
+  "upgradeDowngradeHistory": {
+    "history": [
+      {
+        "epochGradeDate": 1676629663,
+        "firm": "Citigroup",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1676557043,
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1676470232,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1670505385,
+        "firm": "Wells Fargo",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1670337684,
+        "firm": "Deutsche Bank",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1665749797,
+        "firm": "Deutsche Bank",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1665480175,
+        "firm": "Wedbush",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1664890744,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1664799579,
+        "firm": "Credit Suisse",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1664795748,
+        "firm": "Wells Fargo",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1662461195,
+        "firm": "HSBC",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1658925836,
+        "firm": "Deutsche Bank",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1658925387,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1658924928,
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1658317017,
+        "firm": "JP Morgan",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1651140576,
+        "firm": "DZ Bank",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1650979575,
+        "firm": "Guggenheim",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1650976008,
+        "firm": "Deutsche Bank",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1650975862,
+        "firm": "Credit Suisse",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1650974767,
+        "firm": "Cowen & Co.",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1650972864,
+        "firm": "HSBC",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1650969195,
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1650969042,
+        "firm": "Citigroup",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1648641969,
+        "firm": "JP Morgan",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1644593493,
+        "firm": "Deutsche Bank",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1644584778,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1644339828,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1641298722,
+        "firm": "Guggenheim",
+        "toGrade": "Buy",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1639390299,
+        "firm": "JP Morgan",
+        "toGrade": "Overweight",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1635423538,
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1626956111,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1622810368,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1618843357,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1618312771,
+        "firm": "DA Davidson",
+        "toGrade": "Peer Perform",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1615200393,
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "Sector Perform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1611139892,
+        "firm": "Bernstein",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1610635206,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1610021034,
+        "firm": "JP Morgan",
+        "toGrade": "Neutral",
+        "fromGrade": "Overweight",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1609934195,
+        "firm": "Deutsche bank",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1609757729,
+        "firm": "RBC Capital",
+        "toGrade": "Sector Perform",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1607429826,
+        "firm": "Wells Fargo",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1606297045,
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1606297045,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1595418185,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "Equal-Weight",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1591618373,
+        "firm": "Morgan Stanley",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1587573161,
+        "firm": "Citigroup",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1587567101,
+        "firm": "Jefferies",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1587564091,
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1587557191,
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1587483551,
+        "firm": "CFRA",
+        "toGrade": "Strong Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1585675155,
+        "firm": "Morgan Stanley",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1585314354,
+        "firm": "Argus Research",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1585130167,
+        "firm": "DZ Bank",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1585044248,
+        "firm": "HSBC",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1584954618,
+        "firm": "JP Morgan",
+        "toGrade": "Overweight",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1584709020,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1580495806,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1580488253,
+        "firm": "B of A Securities",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1580484486,
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1580478694,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1580475232,
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1580474269,
+        "firm": "Citigroup",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1579615032,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1578571571,
+        "firm": "Credit Suisse",
+        "toGrade": "Outperform",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1576158310,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1571826776,
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1571662554,
+        "firm": "BMO Capital",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1564400028,
+        "firm": "Atlantic Equities",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1563973504,
+        "firm": "BMO Capital",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1563972277,
+        "firm": "JP Morgan",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1563969861,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1563969340,
+        "firm": "Credit Suisse",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1563967793,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1561996236,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1557830007,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "Equal-Weight",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1556119179,
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1556114167,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1556109056,
+        "firm": "Morgan Stanley",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1555417527,
+        "firm": "Wells Fargo",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1552386383,
+        "firm": "HSBC",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1551960275,
+        "firm": "Credit Suisse",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1550232052,
+        "firm": "Citigroup",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1544706957,
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1540999370,
+        "firm": "Jefferies",
+        "toGrade": "Hold",
+        "fromGrade": "Hold",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1540993039,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1541004179,
+        "firm": "Morgan Stanley",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1536932555,
+        "firm": "Guggenheim",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1526552615,
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "Equal-Weight",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1523963979,
+        "firm": "Goldman Sachs",
+        "toGrade": "Neutral",
+        "fromGrade": "Sell",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1519141343,
+        "firm": "BMO Capital",
+        "toGrade": "Market Perform",
+        "fromGrade": "Market Perform",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1519140012,
+        "firm": "Morgan Stanley",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1519135001,
+        "firm": "JP Morgan",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1519134511,
+        "firm": "Credit Suisse",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1515784472,
+        "firm": "Evercore ISI Group",
+        "toGrade": "Outperform",
+        "fromGrade": "In-Line",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1513261781,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1510666053,
+        "firm": "Wells Fargo",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1510666845,
+        "firm": "Wells Fargo",
+        "toGrade": "Outperform",
+        "fromGrade": "Market Perform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1509043165,
+        "firm": "Credit Suisse",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1509044809,
+        "firm": "Morgan Stanley",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1507555988,
+        "firm": "Bank of America",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1501516126,
+        "firm": "BMO Capital",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1497354398,
+        "firm": "Daiwa Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1496838711,
+        "firm": "BMO Capital",
+        "toGrade": "Market Perform",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1492612295,
+        "firm": "Credit Suisse",
+        "toGrade": "Outperform",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1490118066,
+        "firm": "JP Morgan",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1484831146,
+        "firm": "Wells Fargo",
+        "toGrade": "Market Perform",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1483968803,
+        "firm": "Goldman Sachs",
+        "toGrade": "Sell",
+        "fromGrade": "Neutral",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1483966234,
+        "firm": "Barclays",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1481886660,
+        "firm": "Morgan Stanley",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Overweight",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1481633093,
+        "firm": "Deutsche Bank",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1475139657,
+        "firm": "Stifel Nicolaus",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1473958909,
+        "firm": "Credit Suisse",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1469710388,
+        "firm": "Stifel Nicolaus",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1469706949,
+        "firm": "Jefferies",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1467182635,
+        "firm": "Goldman Sachs",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1461237169,
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1461227942,
+        "firm": "Goldman Sachs",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1461212918,
+        "firm": "Citigroup",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1458027669,
+        "firm": "Susquehanna",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1457596893,
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1456475139,
+        "firm": "Sterne Agee CRT",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1456300759,
+        "firm": "HSBC",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1454658322,
+        "firm": "Susquehanna",
+        "toGrade": "Neutral",
+        "fromGrade": "Negative",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1454657045,
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1454042724,
+        "firm": "Barclays",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1453986103,
+        "firm": "Barclays",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1453694465,
+        "firm": "Jefferies",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1452580048,
+        "firm": "Stifel Nicolaus",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1449228417,
+        "firm": "Tigress Financial",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1449226799,
+        "firm": "Tigress Financial",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1445344249,
+        "firm": "JP Morgan",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1436851189,
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1433135040,
+        "firm": "BMO Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "Market Perform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1429029229,
+        "firm": "Susquehanna",
+        "toGrade": "Negative",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1428386275,
+        "firm": "Evercore ISI Group",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1423645200,
+        "firm": "Jefferies",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1422262800,
+        "firm": "Jefferies",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1420416000,
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "Equal-weight",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1418720400,
+        "firm": "Jefferies",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1417478400,
+        "firm": "Tigress Financial",
+        "toGrade": "Buy",
+        "fromGrade": "Neutral",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1413955502,
+        "firm": "Societe Generale",
+        "toGrade": "Sell",
+        "fromGrade": "Hold",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1410849885,
+        "firm": "Cowen & Co.",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1408957476,
+        "firm": "Brasil Plural",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1406155015,
+        "firm": "Nomura",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1405681664,
+        "firm": "Societe Generale",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1405548885,
+        "firm": "Nomura",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1402332797,
+        "firm": "Jefferies",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1398758400,
+        "firm": "Nomura",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1398390648,
+        "firm": "JP Morgan",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1395442791,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1394993588,
+        "firm": "Goldman Sachs",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1393920000,
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1391068800,
+        "firm": "Societe Generale",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1386864000,
+        "firm": "Janney Capital",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1385981184,
+        "firm": "Standpoint Research",
+        "toGrade": "Sell",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1385399568,
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1379575955,
+        "firm": "SunTrust Robinson Humphrey",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1378216170,
+        "firm": "CLSA",
+        "toGrade": "Underperform",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1372063501,
+        "firm": "SunTrust Robinson Humphrey",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1371623095,
+        "firm": "Credit Suisse",
+        "toGrade": "Outperform",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1369153628,
+        "firm": "BMO Capital",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1366180462,
+        "firm": "Bank of America",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1366013873,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1365758435,
+        "firm": "Davenport",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1363249219,
+        "firm": "Credit Agricole",
+        "toGrade": "Outperform",
+        "fromGrade": "Underperform",
+        "action": "up"
+      },
+      {
+        "epochGradeDate": 1361807264,
+        "firm": "Tigress Financial",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "init"
+      },
+      {
+        "epochGradeDate": 1360752565,
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1525527135,
+        "firm": "Argus",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1350456780,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1350402840,
+        "firm": "Citigroup",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1350303360,
+        "firm": "CLSA",
+        "toGrade": "Underperform",
+        "fromGrade": "Outperform",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1349860320,
+        "firm": "Goldman Sachs",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1348744380,
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1345206840,
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1344850140,
+        "firm": "Goldman Sachs",
+        "toGrade": "Neutral",
+        "fromGrade": "Buy",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1334749200,
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1334211300,
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "main"
+      },
+      {
+        "epochGradeDate": 1333440900,
+        "firm": "Stifel Nicolaus",
+        "toGrade": "Hold",
+        "fromGrade": "",
+        "action": "down"
+      },
+      {
+        "epochGradeDate": 1328706180,
+        "firm": "UBS",
+        "toGrade": "",
+        "fromGrade": "",
+        "action": "main"
+      }
+    ],
+    "maxAge": 86400
+  },
+  "pageViews": {
+    "shortTermTrend": "UP",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  }
+}
