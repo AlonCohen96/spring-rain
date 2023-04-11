@@ -29,7 +29,7 @@ function App() {
 
         let data
         try {
-            let response = await fetch(`.netlify/functions/connectYahooFinanceApi?ticker=${ticker}`)
+            let response = await fetch(`/.netlify/functions/connectYahooFinanceApi?ticker=${ticker}`)
             data = await response.json()
         } catch (error){
             setLoading(false)
