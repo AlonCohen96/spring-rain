@@ -31,7 +31,11 @@ function TickerSearchBar ({stocks, getStockSummary, closeAll, loading}){
                             <div></div>
                             <div></div>
                         </div>
-                        : <img className='ticker-search-button' onClick={handleClickOnGetStockSummary} src='icons/search.svg' alt='search-icon' />
+                        : <img className='ticker-search-button'
+                               onClick={handleClickOnGetStockSummary}
+                               src='icons/search.svg'
+                               alt='search-icon'
+                        />
                     }
                     <input
                         className='ticker-search-bar'
@@ -46,7 +50,7 @@ function TickerSearchBar ({stocks, getStockSummary, closeAll, loading}){
                 <button id='close-all-btn' onClick={closeAll}>Clear all</button>
             </form>
             <div className='stocks-container'>
-            {stocks}
+                {stocks}
             </div>
         </div>
     )

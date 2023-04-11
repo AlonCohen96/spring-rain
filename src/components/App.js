@@ -1,3 +1,5 @@
+// Created by Alon Cohen in March 2023
+
 import React from "react"
 import TickerSearchBar from "./TickerSearchBar";
 import StockMiniBox from "./StockMiniBox";
@@ -7,51 +9,52 @@ import Watchlist from "./Watchlist";
 let watchlistTickers = []
 let stockTickers = []
 
-const options = {
-    method: 'GET',
-    headers: {
-        'X-RapidAPI-Key': '',
-        'X-RapidAPI-Host': 'yh-finance.p.rapidapi.com'
-    }
-}
-
 function App() {
     const [stocks, setStocks] = React.useState([])
     const [watchlist, setWatchlist] = React.useState([])
     const [loading, setLoading] = React.useState(false);
 
+    /*
     React.useEffect(() => {
-        fetch(".netlify/functions/getApiKey")
-            .then(response => response.json())
-            .then(data => {
-                options.headers = {
-                    'X-RapidAPI-Key': data.apiKey,
-                    'X-RapidAPI-Host': 'yh-finance.p.rapidapi.com'
-                }
-                getStockSummary('TSLA')
-            })
+        getStockSummary('TSLA')
     }, []);
 
-    function getStockSummary(ticker){
-        setLoading(true)
-        fetch(`https://yh-finance.p.rapidapi.com/stock/v2/get-summary?symbol=${ticker}&region=US`, options)
-            .then(response => response.json())
-            .then(data => {
-                fetch(`https://yh-finance.p.rapidapi.com/stock/v2/get-chart?interval=1d&symbol=${ticker}&range=1y&region=US`, options)
-                    .then(response => response.json())
-                    .then(chartData1y => {
-                        fetch(`https://yh-finance.p.rapidapi.com/stock/v2/get-chart?interval=1d&symbol=${ticker}&range=max&region=US`, options)
-                            .then(response => response.json())
-                            .then(chartDataMax => {
-                                fetch(`https://yh-finance.p.rapidapi.com/stock/v2/get-chart?interval=15m&symbol=${ticker}&range=1mo&region=US`, options)
-                                    .then(response => response.json())
-                                    .then(chartData1m => updateStocks(data, chartData1y, chartDataMax, chartData1m))
-                                    .catch(err => console.error('We could not find the requested ticker: ' + err))
-                                    .finally(() => setLoading(false) )
-                            })
-                    })
-            })
+     */
+    function isObjEmpty (obj) {
+        return Object.keys(obj).length === 0;
     }
+
+    async function getStockSummary(ticker){
+        setLoading(true)
+
+        let data
+        try {
+            let response = await fetch(`.netlify/functions/connectYahooFinanceApi?ticker=${ticker}`)
+            data = await response.json()
+        } catch (error){
+            setLoading(false)
+            alert('The requested ticker is currently unavailable in our database, please try again in a moment and check for spelling mistakes.')
+            return
+        }
+
+        if (isObjEmpty(data.stockSummary)){
+            setLoading(false)
+            alert('The requested ticker is currently unavailable in our database, please try again in a moment and check for spelling mistakes.')
+            return
+        }
+
+        try{
+            const test = data.stockSummary.quoteType.symbol
+        } catch (error){
+            setLoading(false)
+            alert('The requested ticker is currently unavailable in our database. Please try again later.')
+            return
+        }
+
+        updateStocks(data.stockSummary, data.chartData1y, data.chartDataMax, data.chartData1m)
+        setLoading(false)
+    }
+
 
     function updateStocks(newStockData, chartData1y, chartDataMax, chartData1m){
         const symbol = newStockData.quoteType.symbol
@@ -61,7 +64,20 @@ function App() {
         stockTickers.push(symbol)
 
         setStocks(prevStocks => {
-            return [...prevStocks, <StockInfoBox key={symbol} stockSummary={newStockData} chartData1y={chartData1y} chartDataMax={chartDataMax} chartData1m={chartData1m} closeInfoBox={closeInfoBox} refresh={refresh} symbol={symbol} addStockToWatchlist={addStockToWatchlist}/> ]
+            return [
+                ...prevStocks,
+                <StockInfoBox
+                    key={symbol}
+                    stockSummary={newStockData}
+                    chartData1y={chartData1y}
+                    chartDataMax={chartDataMax}
+                    chartData1m={chartData1m}
+                    closeInfoBox={closeInfoBox}
+                    refresh={refresh}
+                    symbol={symbol}
+                    addStockToWatchlist={addStockToWatchlist}
+                />
+            ]
         })
     }
 
@@ -73,7 +89,15 @@ function App() {
         watchlistTickers.push(symbol)
 
         setWatchlist(prevWatchlist => {
-            return [...prevWatchlist, <StockMiniBox key={symbol} symbol={symbol} getStockSummary={getStockSummary} removeFromWatchlist={removeFromWatchlist}/>]
+            return [
+                ...prevWatchlist,
+                <StockMiniBox
+                    key={symbol}
+                    symbol={symbol}
+                    isStockAlreadyOpened={isStockAlreadyOpened}
+                    removeFromWatchlist={removeFromWatchlist}
+                />
+            ]
         })
     }
 
@@ -84,6 +108,13 @@ function App() {
         setWatchlist(prevWatchlist => {
             return prevWatchlist.filter( stock => stock.props.symbol !== symbol )
         })
+    }
+
+    function isStockAlreadyOpened(event){
+        const symbol = event.target.parentElement.id
+        if (stockTickers.includes(symbol) === false ) {
+            getStockSummary(symbol)
+        }
     }
 
     function closeInfoBox(event){
@@ -109,13 +140,23 @@ function App() {
 
     return (
         <div className='app'>
-            <TickerSearchBar stocks={stocks} getStockSummary={getStockSummary} closeAll={closeAll} loading={loading} />
-            <Watchlist watchlist={watchlist}/>
+            <TickerSearchBar
+                stocks={stocks}
+                getStockSummary={getStockSummary}
+                closeAll={closeAll}
+                loading={loading}
+            />
+            <Watchlist
+                watchlist={watchlist}
+            />
         </div>
     )
 }
 
 export default App;
+
+
+/* ------------------- For Development ------------------- */
 
 /*
 function getStockSummary(ticker){

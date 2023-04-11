@@ -1,3 +1,6 @@
+/* Created by Alon Cohen in March 2023 */
+
+/* ---------------------------- Layout ---------------------------- */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,16 +8,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /*background-color: #dce1de;
-  background-color: #253551;
-  background-color: #023e8a;*/
   background-color: #0077b6;
   color: #444444;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-  monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
 .app {
@@ -82,7 +81,7 @@ code {
     text-align: center;
     background: #fbb03b;
     color: #253551;
-    padding: 8px 0;
+    padding: 8px 0 !important;
   }
 }
 

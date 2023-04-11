@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Spring Rain - Market Research Hub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app allows you to search for publicly traded companies accessing the [Yahoo Finance API](https://rapidapi.com/apidojo/api/yh-finance) 
+in exchanges such as the New York Stock Exchange or Nasdaq, as well as popular indexes as the DOW or S&P 500. Enter ticker symbol, e.g. META to 
+retrieve the financial data, analyze historical price movements as well as Analyst predicitions for the future, add a 
+company to your watchlist and compare them to competitors.  
 
-## Available Scripts
+The Frontend was written using the React framework and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-In the project directory, you can run:
+The Backend is written in Node.js and hosted by [Netlify](https://www.netlify.com/) using [Netlify Serverless Functions](https://www.netlify.com/blog/intro-to-serverless-functions), 
+to safely store the API-Key while accessing the Yahoo Finance Api.
 
-### `npm start`
+## Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Try out the [Live Demo](https://springrainhub.com/)!
+\
+\
+![Screenshot2](public/demoScreenshots/spring-rain-mockup.png)
+\
+![Screenshot2](public/demoScreenshots/spring-rain-mobile-mockup.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### Questions & Troubleshooting
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Be aware that this app only allows 5 API calls per second. If the company you are looking forward cannot be found, you have 
+likely made a spelling mistake in the ticker name. Also make sure the company is publicly traded at one of the markets available in 
+Yahoo Finance.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+For any other problems or inputs do not hesitate to create an Issue on GitHub and I will follow up on it!

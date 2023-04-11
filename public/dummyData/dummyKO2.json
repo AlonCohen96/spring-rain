@@ -1,0 +1,347 @@
+{
+  "defaultKeyStatistics": {
+    "err": true
+  },
+  "details": {
+    "err": true
+  },
+  "summaryProfile": {
+    "err": true
+  },
+  "recommendationTrend": {
+    "err": true
+  },
+  "financialsTemplate": {
+    "code": "N",
+    "maxAge": 1
+  },
+  "majorDirectHolders": {
+    "err": true
+  },
+  "earnings": {
+    "err": true
+  },
+  "price": {
+    "quoteSourceName": "Nasdaq Real Time Price",
+    "regularMarketOpen": {
+      "raw": 62.86,
+      "fmt": "62.86"
+    },
+    "averageDailyVolume3Month": {
+      "raw": 14054968,
+      "fmt": "14.05M",
+      "longFmt": "14,054,968"
+    },
+    "exchange": "NYQ",
+    "regularMarketTime": 1680811201,
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 63.0399,
+      "fmt": "63.04"
+    },
+    "shortName": "Coca-Cola Company (The)",
+    "averageDailyVolume10Day": {
+      "raw": 11659770,
+      "fmt": "11.66M",
+      "longFmt": "11,659,770"
+    },
+    "longName": "The Coca-Cola Company",
+    "regularMarketChange": {
+      "raw": 0.040000916,
+      "fmt": "0.04"
+    },
+    "currencySymbol": "$",
+    "regularMarketPreviousClose": {
+      "raw": 62.8,
+      "fmt": "62.80"
+    },
+    "postMarketTime": 1680825585,
+    "preMarketPrice": {
+      "raw": 62.85,
+      "fmt": "62.85"
+    },
+    "preMarketTime": 1681124400,
+    "exchangeDataDelayedBy": 0,
+    "toCurrency": null,
+    "postMarketChange": {
+      "raw": -0.0299988,
+      "fmt": "-0.03"
+    },
+    "postMarketPrice": {
+      "raw": 62.81,
+      "fmt": "62.81"
+    },
+    "exchangeName": "NYSE",
+    "preMarketChange": {
+      "raw": 0.0099983215,
+      "fmt": "0.01"
+    },
+    "circulatingSupply": {},
+    "regularMarketDayLow": {
+      "raw": 62.38,
+      "fmt": "62.38"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "regularMarketPrice": {
+      "raw": 62.84,
+      "fmt": "62.84"
+    },
+    "regularMarketVolume": {
+      "raw": 9644204,
+      "fmt": "9.64M",
+      "longFmt": "9,644,204.00"
+    },
+    "lastMarket": null,
+    "regularMarketSource": "DELAYED",
+    "openInterest": {},
+    "marketState": "PRE",
+    "underlyingSymbol": null,
+    "marketCap": {
+      "raw": 271865315328,
+      "fmt": "271.87B",
+      "longFmt": "271,865,315,328.00"
+    },
+    "quoteType": "EQUITY",
+    "preMarketChangePercent": {
+      "raw": 0.0001591076,
+      "fmt": "0.02%"
+    },
+    "volumeAllCurrencies": {},
+    "postMarketSource": "FREE_REALTIME",
+    "strikePrice": {},
+    "symbol": "KO",
+    "postMarketChangePercent": {
+      "raw": -0.000477384,
+      "fmt": "-0.05%"
+    },
+    "preMarketSource": "FREE_REALTIME",
+    "maxAge": 1,
+    "fromCurrency": null,
+    "regularMarketChangePercent": {
+      "raw": 0.00063695724,
+      "fmt": "0.06%"
+    }
+  },
+  "fundOwnership": {
+    "err": true
+  },
+  "insiderTransactions": {
+    "err": true
+  },
+  "insiderHolders": {
+    "err": true
+  },
+  "netSharePurchaseActivity": {
+    "err": true
+  },
+  "majorHoldersBreakdown": {
+    "err": true
+  },
+  "financialData": {
+    "err": true
+  },
+  "quoteType": {
+    "exchange": "NYQ",
+    "shortName": "Coca-Cola Company (The)",
+    "longName": "The Coca-Cola Company",
+    "exchangeTimezoneName": "America/New_York",
+    "exchangeTimezoneShortName": "EDT",
+    "isEsgPopulated": false,
+    "gmtOffSetMilliseconds": "-14400000",
+    "quoteType": "EQUITY",
+    "symbol": "KO",
+    "messageBoardId": "finmb_26642",
+    "market": "us_market"
+  },
+  "institutionOwnership": {
+    "err": true
+  },
+  "calendarEvents": {
+    "err": true
+  },
+  "summaryDetail": {
+    "previousClose": {
+      "raw": 62.8,
+      "fmt": "62.80"
+    },
+    "regularMarketOpen": {
+      "raw": 62.86,
+      "fmt": "62.86"
+    },
+    "twoHundredDayAverage": {
+      "raw": 61.11035,
+      "fmt": "61.11"
+    },
+    "trailingAnnualDividendYield": {
+      "raw": 0.028025478,
+      "fmt": "2.80%"
+    },
+    "payoutRatio": {
+      "raw": 0.80370003,
+      "fmt": "80.37%"
+    },
+    "volume24Hr": {},
+    "regularMarketDayHigh": {
+      "raw": 63.0399,
+      "fmt": "63.04"
+    },
+    "navPrice": {},
+    "averageDailyVolume10Day": {
+      "raw": 11659770,
+      "fmt": "11.66M",
+      "longFmt": "11,659,770"
+    },
+    "totalAssets": {},
+    "regularMarketPreviousClose": {
+      "raw": 62.8,
+      "fmt": "62.80"
+    },
+    "fiftyDayAverage": {
+      "raw": 60.406,
+      "fmt": "60.41"
+    },
+    "trailingAnnualDividendRate": {
+      "raw": 1.76,
+      "fmt": "1.76"
+    },
+    "open": {
+      "raw": 62.86,
+      "fmt": "62.86"
+    },
+    "toCurrency": null,
+    "averageVolume10days": {
+      "raw": 11659770,
+      "fmt": "11.66M",
+      "longFmt": "11,659,770"
+    },
+    "expireDate": {},
+    "yield": {},
+    "algorithm": null,
+    "dividendRate": {
+      "raw": 1.84,
+      "fmt": "1.84"
+    },
+    "exDividendDate": {
+      "raw": 1678924800,
+      "fmt": "2023-03-16"
+    },
+    "beta": {
+      "raw": 0.539459,
+      "fmt": "0.54"
+    },
+    "circulatingSupply": {},
+    "startDate": {},
+    "regularMarketDayLow": {
+      "raw": 62.38,
+      "fmt": "62.38"
+    },
+    "priceHint": {
+      "raw": 2,
+      "fmt": "2",
+      "longFmt": "2"
+    },
+    "currency": "USD",
+    "trailingPE": {
+      "raw": 28.694063,
+      "fmt": "28.69"
+    },
+    "regularMarketVolume": {
+      "raw": 9644204,
+      "fmt": "9.64M",
+      "longFmt": "9,644,204"
+    },
+    "lastMarket": null,
+    "maxSupply": {},
+    "openInterest": {},
+    "marketCap": {
+      "raw": 271865315328,
+      "fmt": "271.87B",
+      "longFmt": "271,865,315,328"
+    },
+    "volumeAllCurrencies": {},
+    "strikePrice": {},
+    "averageVolume": {
+      "raw": 14054968,
+      "fmt": "14.05M",
+      "longFmt": "14,054,968"
+    },
+    "priceToSalesTrailing12Months": {
+      "raw": 6.3218613,
+      "fmt": "6.32"
+    },
+    "dayLow": {
+      "raw": 62.38,
+      "fmt": "62.38"
+    },
+    "ask": {
+      "raw": 0,
+      "fmt": "0.00"
+    },
+    "ytdReturn": {},
+    "askSize": {
+      "raw": 3200,
+      "fmt": "3.2k",
+      "longFmt": "3,200"
+    },
+    "volume": {
+      "raw": 9644204,
+      "fmt": "9.64M",
+      "longFmt": "9,644,204"
+    },
+    "fiftyTwoWeekHigh": {
+      "raw": 67.2,
+      "fmt": "67.20"
+    },
+    "forwardPE": {
+      "raw": 22.442858,
+      "fmt": "22.44"
+    },
+    "maxAge": 1,
+    "fromCurrency": null,
+    "fiveYearAvgDividendYield": {
+      "raw": 3.09,
+      "fmt": "3.09"
+    },
+    "fiftyTwoWeekLow": {
+      "raw": 54.02,
+      "fmt": "54.02"
+    },
+    "bid": {
+      "raw": 62.8,
+      "fmt": "62.80"
+    },
+    "tradeable": false,
+    "dividendYield": {
+      "raw": 0.0293,
+      "fmt": "2.93%"
+    },
+    "bidSize": {
+      "raw": 3200,
+      "fmt": "3.2k",
+      "longFmt": "3,200"
+    },
+    "dayHigh": {
+      "raw": 63.0399,
+      "fmt": "63.04"
+    },
+    "coinMarketCapLink": null
+  },
+  "symbol": "KO",
+  "esgScores": {
+    "err": true
+  },
+  "upgradeDowngradeHistory": {
+    "err": true
+  },
+  "pageViews": {
+    "shortTermTrend": "DOWN",
+    "midTermTrend": "UP",
+    "longTermTrend": "UP",
+    "maxAge": 1
+  }
+}

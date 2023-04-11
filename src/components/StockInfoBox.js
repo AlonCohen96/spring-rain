@@ -18,6 +18,7 @@ function StockInfoBox({stockSummary, chartData1y, chartDataMax, chartData1m, clo
 
     const insiderOwnership = stockSummary.majorHoldersBreakdown.insidersPercentHeld.raw
     const institutionalOwnership = stockSummary.majorHoldersBreakdown.institutionsPercentHeld.raw
+
     const retailOwnership = 1 - insiderOwnership - institutionalOwnership
 
     const financials = [
@@ -165,7 +166,14 @@ function StockInfoBox({stockSummary, chartData1y, chartDataMax, chartData1m, clo
                 </div>
 
                 <div className='stock-price-chart-container'>
-                    <StockPriceChart chartData1y={chartData1y} chartDataMax={chartDataMax} chartData1m={chartData1m} chartTimeFrame={chartTimeFrame} getPercentageChange={getPercentageChange} percentageChange={percentageChange}></StockPriceChart>
+                    <StockPriceChart
+                        chartData1y={chartData1y}
+                        chartDataMax={chartDataMax}
+                        chartData1m={chartData1m}
+                        chartTimeFrame={chartTimeFrame}
+                        getPercentageChange={getPercentageChange}
+                        percentageChange={percentageChange}>
+                    </StockPriceChart>
                 </div>
 
                 <div className='analyst-ratings-container'>
@@ -184,7 +192,10 @@ function StockInfoBox({stockSummary, chartData1y, chartDataMax, chartData1m, clo
                 <div className='section-container'>
                     <div className='section-header' onClick={expandCompanySummary}>
                         Company Profile
-                        <img className='arrow-icon' src={`icons/arrow_${getArrowIconDirection(companySummaryExpanded)}.svg`} alt='arrow-icon'/>
+                        <img
+                            className='arrow-icon'
+                            src={`icons/arrow_${getArrowIconDirection(companySummaryExpanded)}.svg`}
+                            alt='arrow-icon'/>
                     </div>
                     <div className='company-profile'>{companySummaryExpanded && stockSummary.summaryProfile.longBusinessSummary}</div>
                 </div>
@@ -193,19 +204,30 @@ function StockInfoBox({stockSummary, chartData1y, chartDataMax, chartData1m, clo
                 <div className='section-container' >
                     <div className='section-header' onClick={expandOwnershipPieChart}>
                         Ownership
-                        <img className='arrow-icon' src={`icons/arrow_${getArrowIconDirection(ownershipChartExpanded)}.svg`} alt='arrow-icon'/>
+                        <img className='arrow-icon'
+                             src={`icons/arrow_${getArrowIconDirection(ownershipChartExpanded)}.svg`}
+                             alt='arrow-icon'/>
                     </div>
 
                     <div className='ownership-chart-container'>
-                        <OwnershipChart insiderOwnership={insiderOwnership} institutionalOwnership={institutionalOwnership} retailOwnership={retailOwnership}></OwnershipChart>
-                        <div>{stockSummary.quoteType.shortName} Shareholder Makeup as of {new Date().toLocaleDateString('en-CH',{day: 'numeric', month: 'long', year: 'numeric'} ) }.</div>
+                        <OwnershipChart
+                            insiderOwnership={insiderOwnership}
+                            institutionalOwnership={institutionalOwnership}
+                            retailOwnership={retailOwnership}>
+                        </OwnershipChart>
+                        <div>
+                            {stockSummary.quoteType.shortName}
+                            Shareholder Makeup as of {new Date().toLocaleDateString('en-CH',{day: 'numeric', month: 'long', year: 'numeric'} ) }.
+                        </div>
                     </div>
                 </div>
 
                 <div className='section-container'>
                     <div className='section-header' onClick={expandFinancials}>
                         Financials
-                        <img className='arrow-icon' src={`icons/arrow_${getArrowIconDirection(financialsExpanded)}.svg`} alt='arrow-icon'/>
+                        <img className='arrow-icon'
+                             src={`icons/arrow_${getArrowIconDirection(financialsExpanded)}.svg`}
+                             alt='arrow-icon'/>
                     </div>
                     <div className='list-content'>
                         {financialsExpanded && financials}
@@ -215,7 +237,9 @@ function StockInfoBox({stockSummary, chartData1y, chartDataMax, chartData1m, clo
                 <div className='section-container'>
                     <div className='section-header' onClick={expandKeyRatios}>
                         Key Ratios
-                        <img className='arrow-icon' src={`icons/arrow_${getArrowIconDirection(keyRatiosExpanded)}.svg`} alt='arrow-icon'/>
+                        <img className='arrow-icon'
+                             src={`icons/arrow_${getArrowIconDirection(keyRatiosExpanded)}.svg`}
+                             alt='arrow-icon'/>
                     </div>
                     <div className='list-content'>
                         {keyRatiosExpanded && keyRatios}
@@ -225,7 +249,9 @@ function StockInfoBox({stockSummary, chartData1y, chartDataMax, chartData1m, clo
                 <div className='section-container'>
                     <div className='section-header' onClick={expandEarnings}>
                         Earnings
-                        <img className='arrow-icon' src={`icons/arrow_${getArrowIconDirection(earningsExpanded)}.svg`} alt='arrow-icon'/>
+                        <img className='arrow-icon'
+                             src={`icons/arrow_${getArrowIconDirection(earningsExpanded)}.svg`}
+                             alt='arrow-icon'/>
                     </div>
                     <div className='list-content'>
                         {earningsExpanded && earnings}
@@ -235,7 +261,9 @@ function StockInfoBox({stockSummary, chartData1y, chartDataMax, chartData1m, clo
                 <div className='section-container'>
                     <div className='section-header' onClick={expandDividends}>
                         Dividends
-                        <img className='arrow-icon' src={`icons/arrow_${getArrowIconDirection(dividendsExpanded)}.svg`} alt='arrow-icon'/>
+                        <img className='arrow-icon'
+                             src={`icons/arrow_${getArrowIconDirection(dividendsExpanded)}.svg`}
+                             alt='arrow-icon'/>
                     </div>
                     <div className='list-content'>
                         {dividendsExpanded && dividends}
@@ -248,6 +276,8 @@ function StockInfoBox({stockSummary, chartData1y, chartDataMax, chartData1m, clo
 }
 
 export default StockInfoBox
+
+/* ------------------- For Development ------------------- */
 
 //function isObjectEmpty(obj){
 //         return Object.keys(obj).length !== 0
