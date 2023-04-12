@@ -14,32 +14,16 @@ function App() {
     const [watchlist, setWatchlist] = React.useState([])
     const [loading, setLoading] = React.useState(false);
 
-    /*
-    React.useEffect(() => {
-        getStockSummary('TSLA')
-    }, []);
-
-     */
-    function isObjEmpty (obj) {
-        return Object.keys(obj).length === 0;
-    }
-
     async function getStockSummary(ticker){
         setLoading(true)
 
         let data
         try {
-            let response = await fetch(`.netlify/functions/getApiKey?ticker=${ticker}`)
+            let response = await fetch(`.netlify/functions/connectToYahooFinanceAPI?ticker=${ticker}`)
             data = await response.json()
         } catch (error){
             setLoading(false)
-            alert('The requested ticker is currently unavailable in our database, please try again in a moment and check for spelling mistakes.')
-            return
-        }
-
-        if (isObjEmpty(data.stockSummary)){
-            setLoading(false)
-            alert('The requested ticker is currently unavailable in our database, please try again in a moment and check for spelling mistakes.')
+            alert('We could not find the requested ticker in our database. Please check for any spelling mistakes.')
             return
         }
 

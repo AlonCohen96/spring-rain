@@ -22,7 +22,7 @@ Try out the [Live Demo](https://springrainhub.com/)!
 
 ### Questions & Troubleshooting
 
-Be aware that this app only allows 5 API calls per second. If the company you are looking forward cannot be found, you have 
+Be aware that this app only allows 5 API calls per second. If the company you are looking for cannot be found, you have 
 likely made a spelling mistake in the ticker name. Also make sure the company is publicly traded at one of the markets available in 
 Yahoo Finance.
 

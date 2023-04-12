@@ -68,7 +68,7 @@ function StockInfoBox({stockSummary, chartData1y, chartDataMax, chartData1m, clo
 
     function getUpside(){
         const potential = Math.round ((stockSummary.financialData.targetMeanPrice.raw - stockSummary.price.regularMarketPrice.raw) / stockSummary.price.regularMarketPrice.raw * 100 )
-        return potential > 0 ? `▲ ${potential}%` : `▼ ${potential}`
+        return potential > 0 ? `▲ ${potential}%` : `▼ ${potential}%`
     }
 
     function getBuyRating(){

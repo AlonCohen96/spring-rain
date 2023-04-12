@@ -20,6 +20,11 @@ function TickerSearchBar ({stocks, getStockSummary, closeAll, loading}){
         }
     }
 
+    function handleHoverInfo(event){
+        event.preventDefault()
+        window.open('https://github.com/AlonCohen96/spring-rain', '_blank', 'noreferrer')
+    }
+
     return (
         <div className='ticker-search-bar-container'>
             <form className='ticker-search-bar-form'>
@@ -47,7 +52,10 @@ function TickerSearchBar ({stocks, getStockSummary, closeAll, loading}){
                         value={ticker}
                     />
                 </div>
-                <button id='close-all-btn' onClick={closeAll}>Clear all</button>
+                <div id='top-right-btn-container'>
+                    <button id='close-all-btn' onClick={closeAll}>Clear all</button>
+                    <button id='info-btn' onClick={handleHoverInfo}>🛈</button>
+                </div>
             </form>
             <div className='stocks-container'>
                 {stocks}

@@ -430,15 +430,48 @@ code {
 
 
 
-/* ---------------------------- Clear All BTN ---------------------------- */
+/* ---------------------------- Top Right Buttons Container ---------------------------- */
 
-#close-all-btn{
+#top-right-btn-container{
+  display: flex;
+}
+
+#info-btn{
   height: 2rem;
-  font-size: 1rem;
+  font-size: 1.5rem;
   background: whitesmoke;
   border: none;
   border-radius: 20px;
-  padding: 6px 10px;
+  padding: 0 6px;
+  box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 5px;
+}
+
+@media only screen and (min-width: 768px){
+  #info-btn{
+    height: 2rem;
+    font-size: 1.5rem;
+    background: whitesmoke;
+    border: none;
+    border-radius: 20px;
+    padding: 0 10px;
+    margin: 0 3px;
+    box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 5px;
+  }
+}
+
+#info-btn:hover{
+  background: #dce1de;
+  cursor: pointer;
+}
+
+#close-all-btn{
+  height: 2rem;
+  font-size: 0.8rem;
+  background: whitesmoke;
+  border: none;
+  border-radius: 20px;
+  padding: 2px 10px;
+  margin: 0 3px 0 0;
   box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 5px;
 }
 
@@ -449,8 +482,8 @@ code {
     background: whitesmoke;
     border: none;
     border-radius: 20px;
-    padding: 6px 10px;
-    margin: 0 1rem;
+    padding: 0 10px;
+    margin: 0 3px;
     box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 5px;
   }
 }
