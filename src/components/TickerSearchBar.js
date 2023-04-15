@@ -54,7 +54,7 @@ function TickerSearchBar ({stocks, getStockSummary, closeAll, loading}){
                 </div>
                 <div id='top-right-btn-container'>
                     <button id='close-all-btn' onClick={closeAll}>Clear all</button>
-                    <button id='info-btn' onClick={handleHoverInfo}>🛈</button>
+                    <img id='info-btn' onClick={handleHoverInfo} src='icons/info.svg' alt='info-icon' />
                 </div>
             </form>
             <div className='stocks-container'>
@@ -65,3 +65,5 @@ function TickerSearchBar ({stocks, getStockSummary, closeAll, loading}){
 }
 
 export default TickerSearchBar
+
+//<button id='info-btn' onClick={handleHoverInfo}>🛈</button>

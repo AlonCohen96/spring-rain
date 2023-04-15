@@ -448,12 +448,11 @@ code {
 
 @media only screen and (min-width: 768px){
   #info-btn{
-    height: 2rem;
-    font-size: 1.5rem;
+    height: 1.5rem;
     background: whitesmoke;
     border: none;
     border-radius: 20px;
-    padding: 0 10px;
+    padding: 4px 10px;
     margin: 0 3px;
     box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 5px;
   }
