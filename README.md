@@ -15,7 +15,7 @@ to safely store the API-Key while accessing the Yahoo Finance API.
 Try out the [Live Demo](https://springrainhub.com/)!
 \
 \
-![Screenshot2](public/demoScreenshots/spring-rain-mockup.png)
+![spring-rain-mockup2](https://user-images.githubusercontent.com/27009186/232315135-1e79f8a6-e8a4-4710-84f4-5b39657c7918.png)
 \
 ![Screenshot2](public/demoScreenshots/spring-rain-mobile-mockup.png)
 
