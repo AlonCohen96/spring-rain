@@ -1,7 +1,7 @@
 # Spring Rain - Market Research Hub
 
 This app allows you to search for publicly traded companies accessing the [Yahoo Finance API](https://rapidapi.com/apidojo/api/yh-finance) 
-in exchanges such as the New York Stock Exchange or Nasdaq, as well as popular indexes as the DOW or S&P 500. Enter ticker symbol, e.g. META to 
+in exchanges such as the New York Stock Exchange or Nasdaq, as well as popular indexes as the DOW or S&P 500. Enter a ticker symbol, e.g. META to 
 retrieve the financial data, analyze historical price movements as well as Analyst predictions for the future, add a 
 company to your watchlist and compare them to competitors.  
 
